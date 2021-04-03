@@ -1,0 +1,288 @@
+  /* 
+  #F4811E - SKY Orange
+  #0061AF - SKY Blue
+  #2d89ef - Blue
+  */
+  a:hover {
+    text-decoration: none !important;
+  }
+ 
+  body {
+    font-family: 'Poppins', sans-serif !important;
+    color: #000;
+  }
+ 
+  .top-strip {
+    background: #1d2200;
+    padding: 5px;
+  }
+ 
+  .top-links {
+    display: flex;
+    align-items: center;
+  }
+ 
+  .top-links a {
+    color: #fff !important;
+    margin-right: 20px;
+  }
+ 
+  .bootstrap-styles .dropdown-item.active,
+  .bootstrap-styles .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #f5a623 !important;
+  }
+ 
+  .top-links a i {
+    font-size: 120% !important;
+    margin-right: 5px;
+    position: relative;
+    top: 2px;
+  }
+ 
+  .top-strip img {
+    height: 40px !important;
+  }
+ 
+  .navbar-brand img {
+    width: 170px !important;
+  }
+ 
+  .spectre .modal.active,
+  .spectre .modal:target {
+    display: -ms-flexbox;
+    opacity: 1;
+    z-index: 1500000;
+  }
+ 
+  #itbfb {
+    max-width: 1200px !important;
+    height: 50px;
+  }
+ 
+  .bootstrap-styles .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    right: 0 !important;
+    left: auto !important;
+  }
+ 
+  .spectre .avatar {
+    background: #f5a623 !important;
+    color: #000 !important;
+  }
+ 
+  .navbar-dark {
+    background: #000;
+  }
+ 
+  .bootstrap-styles .nav-link {
+    color: #fff !important;
+    margin-top: 5px !important;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Playfair Display', serif !important;
+    font-size: 16px;
+    font-weight: 400 !important;
+    letter-spacing: .7px !important;
+    padding: 0.5rem 1rem !important;
+    border: 1px solid transparent;
+  }
+ 
+  .user-icon {
+    background: #000;
+    color: #fff !important;
+    padding: 10px 15px;
+    border-radius: 50%;
+  }
+ 
+  .loginBtn {
+    position: relative;
+  }
+ 
+  .bootstrap-styles .dropdown-item {
+    font-size: 15px;
+  }
+ 
+  .spectre .avatar {
+    background: #000;
+    border-radius: 50%;
+    color: fff !important;
+    display: inline-block;
+    font-size: .8rem;
+    font-weight: 300;
+    height: 1.6rem;
+    line-height: 1.25;
+    margin: 0;
+    position: relative;
+    vertical-align: middle;
+    width: 1.6rem;
+    top: -9px;
+  }
+ 
+  .spectre .avatar img {
+    display: none !important;
+  }
+ 
+  #i8qz9 {
+    display: none;
+  }
+ 
+  .nav-link {
+    padding: 5px;
+    display: inline-block !important;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    position: relative;
+    overflow: hidden;
+  }
+ 
+  .bootstrap-styles .navbar {
+    padding: 0 1rem !important;
+  }
+ 
+  .nav-link:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 51%;
+    right: 51%;
+    bottom: 0;
+    background: #f0a322;
+    height: 2px;
+    -webkit-transition-property: left, right;
+    transition-property: left, right;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+ 
+  .nav-link:hover:before,
+  .nav-link:focus:before,
+  .nav-link:active:before {
+    left: 0;
+    right: 0;
+  }
+ 
+  @media (min-width: 992px) {
+    .slideIn {
+      animation-duration: 0.3s;
+      -webkit-animation-duration: 0.3s;
+      animation-fill-mode: both;
+      -webkit-animation-fill-mode: both;
+      -webkit-animation-name: slideIn;
+      animation-name: slideIn;
+    }
+  }
+ 
+  @media (max-width:500px) {
+    .bootstrap-styles .dropdown-item {
+      font-size: 12px !important;
+    }
+ 
+    .top-links a i {
+      margin-right: 4px;
+    }
+ 
+    .top-links a {
+      color: #fff !important;
+      font-size: 12px;
+      display: flex;
+      margin-right: 10px;
+    }
+  }
+ 
+  @keyframes slideIn {
+    0% {
+      transform: translateY(1rem);
+      opacity: 0;
+    }
+ 
+    100% {
+      transform: translateY(0rem);
+      opacity: 1;
+    }
+ 
+    0% {
+      transform: translateY(1rem);
+      opacity: 0;
+    }
+  }
+ 
+  .social-links ul {
+    display: flex;
+    list-style: none !important;
+    flex-wrap: wrap;
+  }
+ 
+  .searchTxtBox {
+    font-family: 'Poppins', sans-serif !important;
+    color: #000 !important;
+    font-size: 14px !important;
+    border: 1px solid #343a40;
+  }
+ 
+  .searchTxtBox::placeholder {
+    color: #000 !important;
+  }
+ 
+  .social-links ul li a {
+    height: 30px;
+    text-align: center;
+    width: 30px;
+    display: block;
+    border: 1px solid black;
+    line-height: 30px;
+    color: #000 !important;
+    margin-right: 6px;
+    transition: .5s !important;
+    font-size: 16px !important;
+  }
+ 
+  .social-links ul li a:hover {
+    color: #f5a623 !important;
+    background: #000 !important;
+  }
+ 
+  .form43 {
+    width: 200px;
+  }
+ 
+  .logo5 {
+    height: 50px !important;
+  }
+ 
+  @media (max-width:500px) {
+    .center-sm {
+      display: flex;
+      align-items: center;
+      justify-content: center !important;
+    }
+ 
+    .form43 {
+      width: 100%;
+      margin-top: 20px;
+    }
+ 
+    .logo5 {
+      height: 67px !important;
+    }
+ 
+    .bootstrap-styles .nav-link {
+      color: #fff !important;
+      display: block !important;
+      margin-top: 5px !important;
+      text-transform: uppercase;
+      text-align: center;
+      font-family: 'Playfair Display', serif !important;
+      font-size: 10px;
+      font-weight: 400 !important;
+      letter-spacing: .7px !important;
+      padding: 0.2rem 1rem !important;
+      border: 1px solid transparent;
+    }
+  }
