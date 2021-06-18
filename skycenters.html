@@ -170,17 +170,9 @@
 
 
 
-    <script type="text/javascript">
-        var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-        (function () {
-            var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = ' https://embed.tawk.to/5f7db2b6f0e7167d0016ecfb/default';
-            s1.charset = 'UTF-8';
-            s1.setAttribute('crossorigin', '*');
-            s0.parentNode.insertBefore(s1, s0);
-        })();
-    </script>
+    <script>var SPUSER = { id: "5fa4b8950cf21e9f3620d824", referCode: 'SCMMJZ', name: 'Karthick Babu', email: "karthickbabu@gmail.com", createdDate: 1604630677495, segment: "trial", type: "external", phone: '+17149003096', role: "course-admin", mhash: "8590bbd82c3192c751de7ed20460bd44", instructorAssetsExportAccess: "" };</script>
+
+
 
 
 
@@ -195,8 +187,6 @@
         ga('create', 'UA-180087824-1', 'auto');
         ga('send', 'pageview');
     </script>
-
-
 
 
 
@@ -241,9 +231,10 @@
 
     <!-- Mandatory -->
     <link rel="stylesheet"
-        href="https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.3/assets/css/center-style.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.3/assets/css/style.css">
-    <script type="text/javascript" src="assets/js/center-script.js"></script>
+        href="https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.5/assets/css/center-style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.5/assets/css/style.css">
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.5/assets/js/center-script.js"></script>
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
         integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
@@ -264,8 +255,6 @@
     <script src="https://unpkg.com/esri-leaflet-geocoder@2.3.3/dist/esri-leaflet-geocoder.js"
         integrity="sha512-HrFUyCEtIpxZloTgEKKMq4RFYhxjJkCiF5sDxuAokklOeZ68U2NPfh4MFtyIVWlsKtVbK5GD2/JzFyAfvT5ejA=="
         crossorigin=""></script>
-
-
 </head>
 
 <body class="">
@@ -1553,8 +1542,8 @@
 
 			<button class="btn btn-primary 			
 				
+					createCustomReviewBtn
 				
-					loginBtn
 				
 			"
 				style="padding: 2px 28px; text-transform: uppercase; border-radius: 40px;">Post</button>
@@ -1680,8 +1669,12 @@
 
 
 
+
+
     <script src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/jquery-2.0.3.min.js"></script>
+
     <script src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/underscore-min.js?v=1.9.1"></script>
+
     <script src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/jquery.form.js"></script>
     <script async src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/jquery.noty.packaged.min.js"></script>
     <script src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/jquery-ui.min.js"></script>
@@ -1717,10 +1710,12 @@
 
         var defaultCoreColor = "#5755d9", theme1CoreColor = "#572b7a", theme2CoreColor = "#3f51b5", theme3CoreColor = "#009051",
             theme4CoreColor = "#596439", theme5CoreColor = "#F0591D", theme6CoreColor = "#28a745", theme7CoreColor = "#1bbc9b",
-            theme8CoreColor = "#f38f20", theme9CoreColor = "#c0af01", theme10CoreColor = "#e8d3a4", spka = "YjE3NDI2MDhmNGVlOGRhNQ==",
+            theme8CoreColor = "#f38f20", theme9CoreColor = "#c0af01", theme10CoreColor = "#e8d3a4", spka = "MGNjYWMzNTZlNjYxYmE4YQ==",
             webColor = theme5CoreColor,
             CFCDN = "https://dz8fbjd9gwp2s.cloudfront.net", mobileNotification = true, webNotification = true, iosPlayVideo = false;
 
+
+        preventSessionTimeout();
 
 
         $("#dsf239df").remove();
@@ -1737,54 +1732,27 @@
 
 
 
-    <script src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/detect-private-browsing.js"></script>
+
     <script type="text/javascript">
-        detectPrivateMode(
-            function (is_private) {
-                if (typeof is_private !== 'undefined' && is_private) {
-                    $("input[name=privateMode]").val("private");
-                }
-            }
-        );
-    </script>
+        $(document).ready(function (e) {
 
 
 
+            $(".loginBtn:eq(0)").attr("href", "/s/dashboard").text("Dashboard").removeClass("loginBtn");
 
 
-    <script type="text/javascript" src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/intlTelInput.min.js"></script>
-    <script type="text/javascript">
-        $("#sphone").intlTelInput({
-            initialCountry: "auto",
-            geoIpLookup: function (callback) {
-                var scountryCode = sessionStorage.getItem('countryCode');
-
-                if (scountryCode !== null) {
-                    callback(scountryCode);
-                } else {
-                    $.get("https://ipinfo.io", function () { }, "jsonp").always(function (resp) {
-                        var countryCode = (resp && resp.country) ? resp.country : "in";
-                        callback(countryCode);
-                        sessionStorage.setItem('countryCode', countryCode);
-                    });
-                }
-            },
-            preferredCountries: ["in", "us"],
-            separateDialCode: true,
-            utilsScript: "/resources/js/intlUtils.js"
+            $(".signupBtn").remove();
         });
-
-        //check utm_source
-        var utmSource = getParamFromUrl("utm_source");
-        if (utmSource !== null && utmSource !== "") {
-            saveLocalSetting("utmSource", utmSource);
-        }
     </script>
+
 
 
 
 
     <div class="spectre">
+
+
+
 
 
 
@@ -1800,11 +1768,7 @@
 
     </div>
 
-
-
     <input type="hidden" id="orgCreditAlias" value="Vethathiri Maharishi Coins" />
-
-
 
 
 
@@ -1863,10 +1827,10 @@
         </div>
 
         <div id="1610241715007d" data-cat="116"
-            class="is-section is-box is-bg-dark is-light-text is-content-top is-section-60">
+            class="is-section is-box is-bg-dark is-light-text is-content-top is-section-30">
             <div class="is-boxes" id="1610241715081">
                 <div class="is-box-centered is-content-top" id="1610241715081">
-                    <div class="is-container container" id="1610241715082" style="max-width: 1100px;">
+                    <div class="is-container container" id="1610241715082" style="max-width: 1400px;">
                         <div class="row clearfix" id="1610241715082">
                             <div id="1610241715082" class="column full">
                                 <div class="row mb-2" id="1610084333824">
@@ -2246,7 +2210,7 @@
             console.warg("Push notification permission is requred")
         }
 
-        window.userId = "";
+        window.userId = "5fa4b8950cf21e9f3620d824";
         resetUI();
 
 
