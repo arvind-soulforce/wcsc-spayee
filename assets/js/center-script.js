@@ -92,7 +92,7 @@ function loadSkyCentersTable(centersJsonArr) {
           contacts.push(centersJsonArr[j].Email_2);
         }
 
-        var contactStr = html = "<p>" + contacts.join("</p><p>") + "</p>";
+        var contactStr = '<p style="font-size:0.8rem; margin:0">' + contacts.join("</p><p>") + "</p>";
 
         tableHtml += '<tr>'
           + '<td style="font-size:0.8rem">' + centersJsonArr[j].Name + '</td>'
