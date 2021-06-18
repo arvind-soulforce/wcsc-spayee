@@ -1,16 +1,17 @@
-/**
-* Template Name: Mentor - v2.2.0
-* Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Helvetica", sans-serif;
   color: #444444;
+}
+
+main {
+  font-family: "Helvetica", sans-serif;
+}
+
+main ul {
+  list-style-position: outside;
 }
 
 a {
@@ -28,7 +29,16 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Helvetica", sans-serif;
+}
+
+.is-wrapper .container img {
+  margin-top: 0 0 1rem 0;
+}
+
+.is-wrapper h6 {
+  font-weight: inherit;
+  font-size: 0.8rem;
 }
 
 /*--------------------------------------------------------------
@@ -449,7 +459,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Raleway", sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-weight: 500;
   font-size: 15px;
   letter-spacing: 1px;
@@ -512,7 +522,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", sans-serif;
 }
 
 .section-title h2::after {
@@ -530,14 +540,14 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", sans-serif;
   color: #37423b;
 }
 
 .breadcrumbs {
   margin-top: 73px;
   text-align: center;
-  background: #ff8040;
+  background-image: linear-gradient(to right, #266dd1, #30a7ba);
   padding: 30px 0;
   color: #fff;
 }
@@ -554,7 +564,7 @@ section {
 }
 
 .breadcrumbs p {
-  font-size: 14px;
+  font-size: 16px;
   margin-bottom: 0;
 }
 
@@ -621,7 +631,7 @@ section {
 .counts .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-size: 15px;
   font-weight: 600;
   color: #37423b;
@@ -834,6 +844,10 @@ section {
 
 .benefits .icon-box:hover h3 a {
   color: #ff8040;
+}
+
+.flex-item {
+  display: flex;
 }
 
 /*--------------------------------------------------------------
@@ -1097,7 +1111,7 @@ section {
   font-weight: 400;
   font-size: 16px;
   margin: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", sans-serif;
 }
 
 .course-details .course-info p {
@@ -1158,7 +1172,6 @@ section {
   transition: 0.3s;
   color: #37423b;
   border-radius: 0;
-  border-right: 2px solid #e2e7e4;
   font-weight: 600;
   font-size: 15px;
 }
@@ -1302,7 +1315,7 @@ section {
   font-size: 36px;
   color: #ff8040;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", sans-serif;
   margin-bottom: 20px;
 }
 
@@ -1358,7 +1371,7 @@ section {
   transition: none;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Raleway", sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-weight: 600;
   transition: 0.3s;
 }
@@ -1586,7 +1599,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Helvetica", sans-serif;
   color: #777777;
 }
 
