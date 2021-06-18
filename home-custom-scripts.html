@@ -1,0 +1,36 @@
+<script src="https://dz8fbjd9gwp2s.cloudfront.net/resources/js/jquery-2.0.3.min.js"></script>
+<script type="text/javascript" async="">
+    $(document).ready(function (e) {
+        var dtNow = new Date();
+        var intTZOffset = dtNow.getTimezoneOffset() * 60000; // automatically adjust for user timezone
+        var intNow = dtNow.getTime() - intTZOffset;
+        var intDay = Math.floor(intNow / 86400000); // The number of 'local' days since Jan 1, 1970
+        $.getJSON("https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@main/assets/data/quotes/en.json",
+            function (data) {
+                var quoteToDisplay = intDay % data.length;
+                $("#en_quote").text(data[quoteToDisplay]);
+            });
+        $.getJSON("https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@main/assets/data/quotes/hi.json",
+            function (data) {
+                var quoteToDisplay = intDay % data.length;
+                $("#hi_quote").text(data[quoteToDisplay]);
+            });
+
+        var langs = ["Danish", "Hindi", "Marathi", "Kannada", "Punjabi", "Telugu", "Gujarati", "Bengali", "Spanish", "Chinese", "German", "Japanese", "Dutch", "Norske", "Arabic", "French", "Italian", "Kshwahili"];
+
+        $.getJSON("https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@main/assets/data/quotes/VewaPearls.json",
+            function (data) {
+                var quoteToDisplay = intDay % data.length;
+                var lang = langs[intDay % langs.length];
+                var quoteInLang = data[quoteToDisplay][lang];
+                if (!quoteInLang) {
+                    lang = "Hindi";
+                    quoteInLang = data[quoteToDisplay][lang];
+                }
+
+                $("#lang_name").text(lang.toUpperCase());
+                $("#hi_quote").text(quoteInLang);
+            });
+    });
+
+</script>

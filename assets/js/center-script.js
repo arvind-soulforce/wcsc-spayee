@@ -1,7 +1,7 @@
 "use strict";
 
 // json data
-var sky_centers_api = "https://cdn.jsdelivr.net/gh/karthickbabu/wcsc@0.0.20/skyyoga/assets/data/sky-centers-by-country.json";
+var sky_centers_api = "https://cdn.jsdelivr.net/gh/WCSC-Engineering/wcsc-spayee@0.0.3/assets/data/centers/sky-centers-by-country.json";
 
 //var sky_centers_api = "./sky-centers-by-country.json";
 var centersList = [];
@@ -88,7 +88,11 @@ function loadSkyCentersTable(centersJsonArr) {
           contacts.push(centersJsonArr[j].Email);
         }
 
-        var contactStr = contacts.join(" / ");
+        if (centersJsonArr[j].Email_2 && centersJsonArr[j].Email_2 != "-") {
+          contacts.push(centersJsonArr[j].Email_2);
+        }
+
+        var contactStr = html = "<p>" + contacts.join("</p><p>") + "</p>";
 
         tableHtml += '<tr>'
           + '<td style="font-size:0.8rem">' + centersJsonArr[j].Name + '</td>'
