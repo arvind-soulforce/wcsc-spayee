@@ -11133,6 +11133,32 @@
       "type": "Feature",
       "properties": {
         "﻿Continent": "Asia",
+        "Country": "Japan",
+        "State": "Tokyo",
+        "City": "Tokyo",
+        "Name": "Tokyo SKY Meditation Centre - Japan",
+        "CenterNumber": "unknown",
+        "Address": "Flat no 401, 1-chōme-3-3 Seishincho, Edogawa City, Tokyo, Japan, 134-0087",
+        "Zone": "Japan",
+        "ContactPersonName": "Mariraj Sankaran, Murugeswari Thirumalai",
+        "Mobile_1": "0081-70-8456-561",
+        "Mobile_2": "0081-70-1265-7906 (Whatsapp), 0081-80-8010-7443 (Phone)",
+        "Landline": "-",
+        "Email": "mariraj.sankaran@gmail.com",
+        "Email_2": "tmurugeswari@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8564579,
+          35.66040379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "﻿Continent": "Asia",
         "Country": "Kuwait",
         "State": "Kuwait",
         "City": "abbasiya ",
