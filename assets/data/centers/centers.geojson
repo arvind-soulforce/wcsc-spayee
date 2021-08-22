@@ -4,33 +4,631 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
-        "State": "Puducherry",
-        "City": "Puducherry",
-        "Name": "Vethapuram MVKM Trust",
-        "CenterNumber": "A.NO.5",
-        "Address": "No.18, 8th cross Street, Brindhavanam, Pondy - 605 013",
-        "Zone": "Puducherry",
-        "ContactPersonName": "A/N. V. Janagiraman",
-        "Mobile_1": "9443658123,",
-        "Mobile_2": "9894189750",
-        "Landline": "-",
-        "Email": "skyvethapuram@gmail.com",
-        "Email_2": ""
+        "State": "Tamilnadu",
+        "City": "Pollachi",
+        "Name": "Temple of consciousness - Aliyar",
+        "CenterNumber": "_",
+        "Address": "Temple of consciousness, Arut Perum Jothi Nagar, Aliyar, Valpara Road, Pollachi, Coimbatore, Tamil Nadu 642101.",
+        "Zone": "Aliyar",
+        "ContactPersonName": "A/N. Muruganandam",
+        "Mobile_1": "7598238733",
+        "Mobile_2": "6379282565",
+        "Landline": "04253-288733",
+        "Email": "aoaliyar@vethathiri.ac.in",
+        "Email_2": "info@vethathiri.ac.in"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.8188341,
-          11.93968
+          76.95131337,
+          10.473846593422335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "WCSC - Head Office",
+        "CenterNumber": "_",
+        "Address": "NO.26, 2nd SEA WARD ROAD, VALMIKI NAGAR, THIRUVANMIYUR, CHENNAI - 600 041.",
+        "Zone": "Chennai",
+        "ContactPersonName": "A/N.Dr.T.K.S.SEKHAR",
+        "Mobile_1": "9445179431",
+        "Mobile_2": "9444165220",
+        "Landline": "044-24571153",
+        "Email": "chennai.wcsc@vethathiri.ac.in",
+        "Email_2": "gensec.wcsc@vethathiri.edu.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26460384,
+          12.98170562981165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Pollachi",
+        "Name": "VISION for Wisdom",
+        "CenterNumber": "_",
+        "Address": "Temple of consciousness, Vision for Wisdom, Arut Perum Jothi Nagar,Aliyar, Valpara Road, Pollachi,Coimbatore, Tamil Nadu 642101.",
+        "Zone": "Aliyar",
+        "ContactPersonName": "A/N Dr. N.A. Perrumal",
+        "Mobile_1": "7904402887",
+        "Mobile_2": "4253288645",
+        "Landline": "4253288175",
+        "Email": "vision@vethathiri.ac.in",
+        "Email_2": "skyonline@vethathiri.ac.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95243522,
+          10.473473687741544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Dindigul",
+        "Name": "Directorate Of SMART � WCSC",
+        "CenterNumber": "_",
+        "Address": "2/428, Vethathiri Nagar, Collectorate (P.O.),Dindigul � 624 004.",
+        "Zone": "Dindigul",
+        "ContactPersonName": "A/N. M.K. Dhamodharan",
+        "Mobile_1": "9442735656",
+        "Mobile_2": "94889474444",
+        "Landline": "0451-2460461",
+        "Email": "wcsc.smart@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.96822195,
+          10.39896928251059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Pollachi",
+        "Name": "Village Service Project - WCSC",
+        "CenterNumber": "_",
+        "Address": "Temple of consciousness, VSP Office, Arut Perum Jothi Nagar,Aliyar, Valpara Road, Pollachi,Coimbatore, Tamil Nadu 642101.",
+        "Zone": "Aliyar",
+        "ContactPersonName": "A/N. Muruganandam",
+        "Mobile_1": "8903638630",
+        "Mobile_2": "7598238733",
+        "Landline": "04253-288733",
+        "Email": "vsp@vethathiri.ac.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95259677,
+          10.474785120560211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Pollachi",
+        "Name": "WCSC - IT (R & D)",
+        "CenterNumber": "_",
+        "Address": "Directorate of Research & Development,Temple of Consciousness,Arut perum jothi Nagar,Aliyar-642 101,Pollachi Taluk,Coimbatore(District).",
+        "Zone": "Aliyar",
+        "ContactPersonName": "A/N.Krish Murali Eshwar,",
+        "Mobile_1": "9900240211",
+        "Mobile_2": "9442130679",
+        "Landline": "4253-288552",
+        "Email": "director.it@vethathiri.ac.in",
+        "Email_2": "skyrc.rnd@vethathiri.res.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95063622,
+          10.473539274243475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Pollachi",
+        "Name": "Jothi Siddha Clinic",
+        "CenterNumber": "_",
+        "Address": "Jothi Siddha Clinic,Temple of Consciousness,Arut perum jothi Nagar,Aliyar-642 101,Pollachi Taluk,Coimbatore(District).",
+        "Zone": "Aliyar",
+        "ContactPersonName": "A/N. Dr. V. M. Rajasekaran. BSMS",
+        "Mobile_1": "9865278544",
+        "Mobile_2": "",
+        "Landline": "04253 � 288544",
+        "Email": "siddhadoctor.aliyar@vethathiri.org",
+        "Email_2": "research@vethathiri.res.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95210959,
+          10.474787338432881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Erode",
+        "Name": "WCSC - Publications",
+        "CenterNumber": "_",
+        "Address": "M11, PERIYAR NAGAR, ERODE - 638001 (NEAR TO 80 FEET ROAD and NEAR TO KAK HOSPITAL), Periyar Nagar, Erode, Tamil Nadu 638001.",
+        "Zone": "Erode",
+        "ContactPersonName": "A/N. K. Rajaram",
+        "Mobile_1": "9994930378",
+        "Mobile_2": "0424-2211885",
+        "Landline": "0424-2281587",
+        "Email": "publications@vethathiri.ac.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.72380217,
+          11.333542855657598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Chennai - Zone Office",
+        "CenterNumber": "_",
+        "Address": "37,T.M.Maistry Street, thiruvanmiyur, Chennai, India",
+        "Zone": "Chennai",
+        "ContactPersonName": "A/N . Kalavathi Sekar",
+        "Mobile_1": "8925829330",
+        "Mobile_2": "9498859277",
+        "Landline": "044-45145593",
+        "Email": "wcscchennaizone@gmail.com",
+        "Email_2": "logacityzone@yahoo.co.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.26174398,
+          12.995945101305033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Kancheepuram - Zone Office",
+        "CenterNumber": "_",
+        "Address": "NO-5/3, Rajeshwari Street,Kamarajar Nagar, Choolai Medu, Chennai - 600 094",
+        "Zone": "Kancheepuram",
+        "ContactPersonName": "A/N. S. Mayil Murugan",
+        "Mobile_1": "7358478028",
+        "Mobile_2": "9551230832",
+        "Landline": "044-23611748",
+        "Email": "wcsckanchipuramzone@vethathiri.ac.in",
+        "Email_2": "wcsckancheepuramzone@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21828685,
+          13.064686244178517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Coimbatore",
+        "Name": "Coimbatore - Zone Office",
+        "CenterNumber": "_",
+        "Address": "743, Avanishi Road,Near Anna Selai,Coimbatore � 641 018",
+        "Zone": "Coimbatore",
+        "ContactPersonName": "A/N.R.Pachiappan",
+        "Mobile_1": "9486976767",
+        "Mobile_2": "0422-2222411",
+        "Landline": "0422-6547440",
+        "Email": "wcsc@skyyogacbezone.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.97511346,
+          11.004769770621076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Dindigul",
+        "Name": "Dindigul - Zone Office",
+        "CenterNumber": "_",
+        "Address": "2/428, Vethathiri Nagar,Collectorate Post,Dindigul - 624 004.",
+        "Zone": "Dindigul",
+        "ContactPersonName": "A/N. M.K. Dhamodharan",
+        "Mobile_1": "9003923693",
+        "Mobile_2": "9025739310",
+        "Landline": "0451-2460461",
+        "Email": "wcsc.dglzone@gmail.com",
+        "Email_2": "smart.wcsc@vethathiri.ac.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.96941494,
+          10.363012311893225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Erode",
+        "Name": "Erode - Zone Office",
+        "CenterNumber": "_",
+        "Address": "L.41, Housing Unit, Anna Nagar,Nasiyanoor Road,Erode � 638 011",
+        "Zone": "Erode",
+        "ContactPersonName": "A/N. V.M.Venkatachalam",
+        "Mobile_1": "9095335366",
+        "Mobile_2": "9488869112",
+        "Landline": "0424 2268390",
+        "Email": "erode.zone@vethathiri.ac.in",
+        "Email_2": "zoneerode@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.68921304,
+          11.341583246638002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Kumbakonam",
+        "Name": "Kumbakonam - Zone Office",
+        "CenterNumber": "_",
+        "Address": "No:5, Noor Nagar, Pidari Kulam Road, Kumbakonam-612001.",
+        "Zone": "Kumbakonam",
+        "ContactPersonName": "A/N.V.Periyasami",
+        "Mobile_1": "9443043343",
+        "Mobile_2": "9042438407",
+        "Landline": "0435-2430601",
+        "Email": "kumbakonamzone@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.38780434,
+          10.962970370854245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Madurai",
+        "Name": "Madurai - Zone Office",
+        "CenterNumber": "_",
+        "Address": "24 Besent Road, Chokkikulam,Madurai-625002",
+        "Zone": "Madurai",
+        "ContactPersonName": "A/N.R.Murugesan",
+        "Mobile_1": "9715540229",
+        "Mobile_2": "9600867287",
+        "Landline": "0452-2526461",
+        "Email": "madurai.zone@vethathiri.ac.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13019801,
+          9.94124834462197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Salem",
+        "Name": "Salem - Zone Office",
+        "CenterNumber": "_",
+        "Address": "No156, Samiyappa nagar, seelanaickenpatti,Selam-636201.",
+        "Zone": "Salem",
+        "ContactPersonName": "A/N.Uzhavan.M.Thangavelu     ",
+        "Mobile_1": "9865513890",
+        "Mobile_2": "9943409264",
+        "Landline": "0427-2281987",
+        "Email": "wcscsalemzone@gmail.com",
+        "Email_2": "salem.zone@vethathiri.ac.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.142216,
+          11.61794275429192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Tirunelveli",
+        "Name": "Tirunelveli - Zone Office",
+        "CenterNumber": "_",
+        "Address": "B-28, Jawahar Nagar, NGO 'B' Colony, Tirunelveli, Tamil Nadu, India 627007",
+        "Zone": "Tirunelveli",
+        "ContactPersonName": "A/N. A. Annaamalayor",
+        "Mobile_1": "9442630093",
+        "Mobile_2": "6380291312",
+        "Landline": "04634-274555,",
+        "Email": "twcsczone@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.73709137,
+          8.674421679372582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Tiruvannamalai",
+        "Name": "Tiruvannamalai - Zone Office",
+        "CenterNumber": "_",
+        "Address": "No. 1/111, Keezh street,Kalasapakkam (TK),Tiruvannamalai- 606 751",
+        "Zone": "Tiruvannamalai",
+        "ContactPersonName": "A/N. S.Chandrasekaran",
+        "Mobile_1": "7540052194",
+        "Mobile_2": "9487231065",
+        "Landline": "9443106848",
+        "Email": "tvmalai.zone@vethathiri.ac.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10477036,
+          12.434784904982346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Trichy",
+        "Name": "Trichy - Zone Office",
+        "CenterNumber": "_",
+        "Address": "No,19, vethathiri Nagar, Kattur Post, Trichy-620019",
+        "Zone": "Trichy",
+        "ContactPersonName": "A/N. R.J.Mala",
+        "Mobile_1": "8870001568",
+        "Mobile_2": "8610511396",
+        "Landline": "0431-2550800",
+        "Email": "trichy.zone@vethathiri.ac.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.75765034,
+          10.794195455408461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Villupuram",
+        "Name": "Villupuram - Zone Office",
+        "CenterNumber": "_",
+        "Address": "No,9, Dhanalakshmi Garden,Trichy Main Road, Opp to woodlands Hotel, Villupuram - 605602",
+        "Zone": "Villupuram",
+        "ContactPersonName": "A/N. V. Vivekanandan",
+        "Mobile_1": "9843627060",
+        "Mobile_2": "8903458211",
+        "Landline": "9943577479",
+        "Email": "wcsc_vpmzone@yahoo.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.48382664,
+          11.938648054299529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Sathur",
+        "Name": "Virudhunagar - Zone Office",
+        "CenterNumber": "_",
+        "Address": "No.11/25,Murugan Koil North Mada Street, Sathur-626203",
+        "Zone": "Virudhunagar",
+        "ContactPersonName": "A/N. M. Raja Sudalai Muthu",
+        "Mobile_1": "9442060592",
+        "Mobile_2": "9894175277",
+        "Landline": "9994862546",
+        "Email": "satturmvkm@vethathiri.ac.in",
+        "Email_2": "satturmvkm@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.91857615,
+          9.351591619165918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Tirupur",
+        "Name": "Tirupur - Zone Office",
+        "CenterNumber": "_",
+        "Address": "4/317, Kumarasamy nagar,Pitchampalayam pudhur (PO),Tirupur - 3",
+        "Zone": "Tirupur",
+        "ContactPersonName": "A/N. N.Karunanidhi",
+        "Mobile_1": "7871539226",
+        "Mobile_2": "7871539255",
+        "Landline": "0421-4333245",
+        "Email": "tirupur.zone@vethathiri.ac.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34509598,
+          11.135440205910806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Thiruvallur - Zone Office",
+        "CenterNumber": "_",
+        "Address": "NO- 55/25, PERUMAL KOIL STREET, PUDHUR, AMBATTUR, CHENNAI � 600",
+        "Zone": "Thiruvallur",
+        "ContactPersonName": "A/N. D. Krishnamoorthy",
+        "Mobile_1": "9840161572",
+        "Mobile_2": "9940677060",
+        "Landline": "044-48679293",
+        "Email": "wcscthiruvallurzone@vethathiri.ac.in",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1610998,
+          13.130105106809697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Hosur",
+        "Name": "Hosur - Zone Office",
+        "CenterNumber": "_",
+        "Address": "H-36, 8th Cross, Shanthinikethan, New A.S.T.C. Hudco, Hosur 635109",
+        "Zone": "Hosur",
+        "ContactPersonName": "A/N. P. Rangasamy",
+        "Mobile_1": "9443316923",
+        "Mobile_2": "9994944554",
+        "Landline": "9500692707",
+        "Email": "wcschosurzone@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.81687805,
+          12.736155569362209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -56,7 +654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Eluru ",
@@ -82,13 +680,13 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
         "Name": "Bangalore Krishnarajapuram SKY Trust",
         "CenterNumber": "A.NO.70",
-        "Address": "“SRI PRASONA”, No.229/1, Nandagokula St, Akash Nagar, 3rd cross, K.R.Puram, Bangalore-560 016. ",
+        "Address": "SRI PRASONA, No.229/1, Nandagokula St, Akash Nagar, 3rd cross, K.R.Puram, Bangalore-560 016. ",
         "Zone": "Karnataka",
         "ContactPersonName": "Dr.T.S.Kani",
         "Mobile_1": "9449824197",
@@ -108,7 +706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -134,7 +732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -160,7 +758,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Vijayawada",
@@ -186,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Ernakulam",
@@ -212,7 +810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Telangana",
         "City": "Hyderabad",
@@ -238,7 +836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -264,7 +862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Maharashtra",
         "City": "Chembur (East)",
@@ -290,7 +888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -316,7 +914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Cumbummettu",
@@ -342,7 +940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Cherthala",
@@ -368,7 +966,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Puducherry",
         "City": "Puducherry",
@@ -394,13 +992,13 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Kozhikode",
         "Name": "Calicut SKY Trust,",
         "CenterNumber": "A.NO.281",
-        "Address": "C/o.A/N.K.Ramachandran, MIC, “Padmasree”, Eravattor (P.O), Perambra (Via), Calicut (Dt), Kerala - 673525.",
+        "Address": "C/o.A/N.K.Ramachandran, MIC, Padmasree, Eravattor (P.O), Perambra (Via), Calicut (Dt), Kerala - 673525.",
         "Zone": "Kerala",
         "ContactPersonName": "A/N.Dr.T.N.Vijaya Kumar",
         "Mobile_1": "9496285070",
@@ -420,7 +1018,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -446,7 +1044,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -472,7 +1070,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "West Bengal",
         "City": "Kolkata",
@@ -498,7 +1096,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Kovvur",
@@ -524,7 +1122,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Mysuru",
@@ -550,7 +1148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -576,33 +1174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
-        "Country": "India",
-        "State": "Haryana",
-        "City": "Gurgaon",
-        "Name": "Gurgaon SKY Trust",
-        "CenterNumber": "A.NO.389",
-        "Address": "B 140, GAIL Housing Society, Plot No.GH-9, Sector 56, Gurugram - 122011, Haryana",
-        "Zone": "Delhi",
-        "ContactPersonName": "A/N.S.Malathy",
-        "Mobile_1": "9971392649",
-        "Mobile_2": "0-9971122896",
-        "Landline": "0-9871888230",
-        "Email": "malathy.vetha@gmail.com",
-        "Email_2": "ilango.vetha@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.0967965,
-          28.4217917
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Guntur",
@@ -628,7 +1200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Vijayawada",
@@ -654,7 +1226,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Eluru ",
@@ -680,7 +1252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -706,7 +1278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Tirupati",
@@ -732,7 +1304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Tirupati",
@@ -758,13 +1330,13 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Alappuzha",
         "Name": "Alappuzha SKY Trust",
         "CenterNumber": "A.NO.442",
-        "Address": "“ARATTU VAZHI”, OPPOSITE TO SANJOSE HOSPITAL, ALAPPUZHA NORTH",
+        "Address": "ARATTU VAZHI, OPPOSITE TO SANJOSE HOSPITAL, ALAPPUZHA NORTH",
         "Zone": "Kerala",
         "ContactPersonName": "A/N.K.V.Haridas",
         "Mobile_1": "9497109353",
@@ -784,7 +1356,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Telangana",
         "City": "Secunderabad",
@@ -810,7 +1382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Guntur",
@@ -836,7 +1408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Thiruvananthapuram",
@@ -862,7 +1434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Rajahmundry",
@@ -888,7 +1460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Iritty",
@@ -914,7 +1486,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Kayamkulam",
@@ -940,7 +1512,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Kottayam",
@@ -966,7 +1538,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Cherthala",
@@ -992,7 +1564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Kannur",
@@ -1018,7 +1590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Puducherry",
         "City": "Puducherry",
@@ -1044,7 +1616,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Puducherry",
         "City": "Puducherry",
@@ -1070,7 +1642,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Puducherry",
         "City": "Puducherry",
@@ -1096,7 +1668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Puducherry",
         "City": "Puducherry",
@@ -1122,7 +1694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -1148,7 +1720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Palakkad",
@@ -1174,7 +1746,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Eruva",
@@ -1200,7 +1772,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -1226,7 +1798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Vijayawada",
@@ -1252,7 +1824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Thrissur",
@@ -1278,7 +1850,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Kerala",
         "City": "Ambalapuzha",
@@ -1304,7 +1876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Karnataka",
         "City": "Bengaluru",
@@ -1330,7 +1902,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Srikakulam",
@@ -1356,7 +1928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Kotala ",
@@ -1382,7 +1954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "New Delhi",
         "City": "New Delhi",
@@ -1390,11 +1962,11 @@
         "CenterNumber": "A.NO.509",
         "Address": "Room No.103, First Floor, Grith Kalyan Kendra, Samraj Sadan, Sector - 4, R.K.Puram, New Delhi 110 022.",
         "Zone": "Delhi",
-        "ContactPersonName": "A/N.M.Parameswaran",
+        "ContactPersonName": "A/N.M.Parameswaran/A/N.R.Guhan",
         "Mobile_1": "9871888230",
-        "Mobile_2": "-",
+        "Mobile_2": " 99688 95572",
         "Landline": "-",
-        "Email": "skyyoga.delhi@gmail.com",
+        "Email": "skyyoga.delhi@gmail.com/parameswaranster@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -1408,7 +1980,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Andhra Pradesh",
         "City": "Eluru ",
@@ -1434,7 +2006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ariyalur",
@@ -1460,7 +2032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -1486,7 +2058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thoothukudi",
@@ -1512,7 +2084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -1538,7 +2110,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dindigul",
@@ -1564,7 +2136,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharapuram",
@@ -1590,7 +2162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -1616,7 +2188,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kanyakumari",
@@ -1642,7 +2214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -1668,7 +2240,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Sivagangai ",
@@ -1694,7 +2266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Virudhunagar",
@@ -1720,7 +2292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -1746,7 +2318,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -1772,7 +2344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -1798,7 +2370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chengalpattu",
@@ -1824,7 +2396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -1850,7 +2422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -1876,7 +2448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ranipet",
@@ -1902,7 +2474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -1928,7 +2500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -1954,7 +2526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -1980,7 +2552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -2006,7 +2578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -2032,7 +2604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Virudhunagar",
@@ -2058,7 +2630,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -2084,7 +2656,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -2110,7 +2682,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -2136,7 +2708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -2145,11 +2717,11 @@
         "Address": "Kandasamy & Co., Campus, No.266, Mettupalayam Road, Coimbatore - 641 043.",
         "Zone": "Coimbatore",
         "ContactPersonName": "A/N. Senthamarai Jayakumar",
-        "Mobile_1": "9486355107",
+        "Mobile_1": "8778870726",
         "Mobile_2": "9443756252",
         "Landline": "9442526880, 9488875970",
         "Email": "northkovaiwisetrust@gmail.com",
-        "Email_2": ""
+        "Email_2": "wisetrustnorthkovai@gmail.com"
       },
       "geometry": {
         "type": "Point",
@@ -2162,7 +2734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -2188,7 +2760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -2214,7 +2786,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dindigul",
@@ -2240,7 +2812,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Virudhunagar",
@@ -2266,7 +2838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Nagapattinam",
@@ -2292,7 +2864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -2318,7 +2890,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -2344,7 +2916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -2370,7 +2942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Nilgiris",
@@ -2396,7 +2968,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kumbakonam",
@@ -2422,7 +2994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Puducherry",
         "City": "Karaikal",
@@ -2448,7 +3020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -2474,7 +3046,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharmapuri",
@@ -2500,7 +3072,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -2526,7 +3098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Mailaduthurai",
@@ -2552,7 +3124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -2578,7 +3150,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -2604,7 +3176,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chengalpattu",
@@ -2630,7 +3202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -2656,7 +3228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -2682,7 +3254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -2708,7 +3280,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -2734,7 +3306,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -2760,7 +3332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -2786,7 +3358,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -2812,7 +3384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -2823,7 +3395,7 @@
         "ContactPersonName": "A/N.N.P.Srinivasan",
         "Mobile_1": "9842781564",
         "Mobile_2": "9751125976",
-        "Landline": "9486036405, 9842752564",
+        "Landline": "94860-36405, 98427-00000",
         "Email": "pnpudurtrust@gmail.com",
         "Email_2": ""
       },
@@ -2838,7 +3410,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -2864,7 +3436,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -2890,7 +3462,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -2916,7 +3488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -2942,7 +3514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -2968,7 +3540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ramanathapuram",
@@ -2994,7 +3566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Nilgiris",
@@ -3020,7 +3592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -3046,7 +3618,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Hosur",
@@ -3072,7 +3644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -3098,7 +3670,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Nilgiris",
@@ -3124,7 +3696,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -3150,7 +3722,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tirupathur",
@@ -3176,7 +3748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -3202,7 +3774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -3228,7 +3800,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -3254,7 +3826,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -3280,7 +3852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -3306,7 +3878,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -3332,7 +3904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Sivagangai ",
@@ -3358,7 +3930,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -3384,7 +3956,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -3410,7 +3982,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -3436,7 +4008,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -3462,7 +4034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -3488,7 +4060,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Perambalur",
@@ -3514,7 +4086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Viluppuram",
@@ -3540,7 +4112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kancheepuram",
@@ -3566,7 +4138,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ranipet",
@@ -3592,7 +4164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -3618,7 +4190,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chidambaram",
@@ -3644,7 +4216,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -3670,7 +4242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -3696,7 +4268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -3722,7 +4294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -3748,7 +4320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -3774,7 +4346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -3800,7 +4372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -3826,7 +4398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -3852,7 +4424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Nilgiris",
@@ -3878,7 +4450,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Viluppuram",
@@ -3904,7 +4476,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kangeyam",
@@ -3930,7 +4502,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thoothukudi",
@@ -3956,7 +4528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thoothukudi",
@@ -3982,7 +4554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -4008,7 +4580,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -4034,7 +4606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Karur",
@@ -4060,7 +4632,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4086,7 +4658,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -4112,7 +4684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Virudhunagar",
@@ -4138,7 +4710,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4164,7 +4736,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4190,7 +4762,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kallakuruchi",
@@ -4216,7 +4788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -4228,7 +4800,7 @@
         "Mobile_1": "9543435535",
         "Mobile_2": "9942193640",
         "Landline": "04332-260001",
-        "Email": "Manachanallur.skyyoga@vethathiri.ac.in ",
+        "Email": "manapparai.skyyoga@vethathiri.ac.in",
         "Email_2": ""
       },
       "geometry": {
@@ -4242,7 +4814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -4268,7 +4840,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Udumalai",
@@ -4294,7 +4866,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -4320,7 +4892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -4346,7 +4918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4372,7 +4944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Puthukottai",
@@ -4398,7 +4970,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4424,7 +4996,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4450,7 +5022,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Virudhunagar",
@@ -4476,7 +5048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4502,7 +5074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -4528,7 +5100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Hosur",
@@ -4554,7 +5126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -4580,7 +5152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -4606,7 +5178,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Puthukottai",
@@ -4618,7 +5190,7 @@
         "Mobile_1": "9444873349",
         "Mobile_2": "9750103534",
         "Landline": "-",
-        "Email": "sa.a218@vethathiri.ac.in",
+        "Email": "pudukottai.skyyoga@vethathiri.ac.in",
         "Email_2": "kumarchinnasamy06@gmail.co"
       },
       "geometry": {
@@ -4632,7 +5204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -4658,7 +5230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -4684,7 +5256,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -4710,7 +5282,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Hosur",
@@ -4736,7 +5308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharapuram",
@@ -4762,7 +5334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kancheepuram",
@@ -4788,7 +5360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -4814,7 +5386,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -4840,7 +5412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -4866,7 +5438,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Puthukottai",
@@ -4892,7 +5464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -4918,7 +5490,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -4944,7 +5516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Theni",
@@ -4970,7 +5542,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -4996,7 +5568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5022,7 +5594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5048,7 +5620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5074,7 +5646,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -5100,7 +5672,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharmapuri",
@@ -5126,7 +5698,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -5152,7 +5724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -5178,7 +5750,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -5204,7 +5776,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Sivagangai ",
@@ -5230,7 +5802,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -5256,7 +5828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Puthukottai",
@@ -5282,7 +5854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ranipet",
@@ -5308,7 +5880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5334,7 +5906,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -5360,7 +5932,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -5386,7 +5958,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharmapuri",
@@ -5412,7 +5984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -5438,7 +6010,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -5464,7 +6036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore",
@@ -5490,7 +6062,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5516,7 +6088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5542,7 +6114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -5568,7 +6140,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -5594,7 +6166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -5620,7 +6192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5646,7 +6218,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5672,7 +6244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Viluppuram",
@@ -5698,7 +6270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ramanathapuram",
@@ -5724,7 +6296,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5750,7 +6322,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Viluppuram",
@@ -5776,7 +6348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -5802,7 +6374,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ranipet",
@@ -5828,7 +6400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Theni",
@@ -5854,7 +6426,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -5880,7 +6452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -5906,7 +6478,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -5932,7 +6504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -5958,7 +6530,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -5984,7 +6556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Nilgiris",
@@ -5997,7 +6569,7 @@
         "Mobile_2": "7639768852",
         "Landline": "-",
         "Email": "rajbheeman@gmail.com",
-        "Email_2": ""
+        "Email_2": "kotta.mutt@gmail.com"
       },
       "geometry": {
         "type": "Point",
@@ -6010,7 +6582,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -6036,7 +6608,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -6062,7 +6634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -6088,7 +6660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6114,7 +6686,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -6140,7 +6712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -6166,7 +6738,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -6192,7 +6764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6218,7 +6790,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6244,7 +6816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thoothukudi",
@@ -6270,7 +6842,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharmapuri",
@@ -6296,7 +6868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -6322,7 +6894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ariyalur",
@@ -6348,7 +6920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -6374,7 +6946,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dindigul",
@@ -6400,7 +6972,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6426,7 +6998,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6452,7 +7024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6478,7 +7050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvallur",
@@ -6504,7 +7076,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6530,7 +7102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvallur",
@@ -6556,7 +7128,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6582,7 +7154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -6608,7 +7180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -6634,7 +7206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -6660,7 +7232,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -6686,7 +7258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvarur",
@@ -6712,7 +7284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -6738,7 +7310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6764,7 +7336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6790,7 +7362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Viluppuram",
@@ -6816,7 +7388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -6842,7 +7414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -6868,7 +7440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kallakuruchi",
@@ -6894,7 +7466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -6920,7 +7492,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -6946,7 +7518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -6972,7 +7544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -6998,7 +7570,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7024,7 +7596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7050,7 +7622,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ranipet",
@@ -7076,7 +7648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -7102,7 +7674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kallakuruchi",
@@ -7128,7 +7700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7154,7 +7726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7180,7 +7752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7206,7 +7778,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7232,7 +7804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Theni",
@@ -7258,7 +7830,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dindigul",
@@ -7284,7 +7856,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Theni",
@@ -7310,7 +7882,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7336,7 +7908,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -7362,7 +7934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -7388,7 +7960,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -7414,7 +7986,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -7440,7 +8012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7466,7 +8038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7492,7 +8064,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -7518,7 +8090,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -7544,7 +8116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kanyakumari",
@@ -7570,7 +8142,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -7596,7 +8168,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7622,7 +8194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharmapuri",
@@ -7648,7 +8220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Virudhunagar",
@@ -7674,7 +8246,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -7700,7 +8272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Ranipet",
@@ -7726,7 +8298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -7752,7 +8324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -7778,7 +8350,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7804,7 +8376,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7830,7 +8402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7856,7 +8428,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -7882,7 +8454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kallakuruchi",
@@ -7908,7 +8480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thoothukudi",
@@ -7934,7 +8506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7960,7 +8532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -7986,7 +8558,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -8012,7 +8584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8038,7 +8610,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8049,7 +8621,7 @@
         "ContactPersonName": "A/N.R.RAJAGOPAL",
         "Mobile_1": "9444418241",
         "Mobile_2": "9840861519",
-        "Landline": "-",
+        "Landline": "98408 61519",
         "Email": "mogappairskytrust2020@gmail.com",
         "Email_2": "gopal132971@gmail.com"
       },
@@ -8064,7 +8636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -8090,7 +8662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Karur",
@@ -8116,7 +8688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -8142,7 +8714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -8168,7 +8740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -8194,7 +8766,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8220,7 +8792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -8246,7 +8818,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8272,7 +8844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -8298,7 +8870,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Namakkal",
@@ -8324,7 +8896,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8350,7 +8922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Cuddalore",
@@ -8376,7 +8948,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -8402,7 +8974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chengalpattu",
@@ -8428,7 +9000,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8454,7 +9026,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kancheepuram",
@@ -8480,7 +9052,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8506,7 +9078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Nagapattinam",
@@ -8532,7 +9104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -8542,7 +9114,7 @@
         "Zone": "Coimbatore",
         "ContactPersonName": "A/N.M.Thamarai",
         "Mobile_1": "9789988949",
-        "Mobile_2": "-",
+        "Mobile_2": "9443560525",
         "Landline": "-",
         "Email": "annurmvkm14@gmail.com",
         "Email_2": ""
@@ -8558,7 +9130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -8584,7 +9156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -8610,7 +9182,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvallur",
@@ -8636,13 +9208,13 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
         "Name": "T.Nagar Pothys MVKM Trust",
         "CenterNumber": "A.NO.427",
-        "Address": "C/o.A/N.S.Sekar, A.O., No.75, D, Sri Rajalakshmi Flats, 2nd Cross St, New NGGO Colony, (Near E.B.Colony) Adambakkam, Chennai  600 088.",
+        "Address": "C/o.A/N.S.Sekar, A.O., No.75, D, Sri Rajalakshmi Flats, 2nd Cross St, New NGGO Colony, (Near E.B.Colony) Adambakkam, Chennai 600 088.",
         "Zone": "Chennai",
         "ContactPersonName": "A/N.S.Pothyraj",
         "Mobile_1": "9444165220",
@@ -8662,7 +9234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kancheepuram",
@@ -8688,7 +9260,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -8714,7 +9286,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Viluppuram",
@@ -8740,7 +9312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Virudhunagar",
@@ -8766,7 +9338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -8792,7 +9364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dindigul",
@@ -8818,7 +9390,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -8844,7 +9416,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -8870,7 +9442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thoothukudi",
@@ -8896,7 +9468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -8922,7 +9494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Karur",
@@ -8948,7 +9520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -8974,7 +9546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Karur",
@@ -9000,7 +9572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Karur",
@@ -9026,7 +9598,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -9052,7 +9624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Viluppuram",
@@ -9078,7 +9650,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -9104,7 +9676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -9130,7 +9702,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dindigul",
@@ -9156,7 +9728,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Theni",
@@ -9182,7 +9754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -9208,7 +9780,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -9234,7 +9806,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dharmapuri",
@@ -9260,7 +9832,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore ",
@@ -9286,7 +9858,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Puthukottai",
@@ -9312,7 +9884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -9338,7 +9910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvannamalai",
@@ -9364,7 +9936,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
@@ -9390,7 +9962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kanyakumari",
@@ -9416,7 +9988,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Sivagangai ",
@@ -9442,7 +10014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -9468,7 +10040,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chidambaram",
@@ -9494,7 +10066,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Salem",
@@ -9520,7 +10092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -9546,7 +10118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kanyakumari",
@@ -9572,7 +10144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Madurai",
@@ -9598,7 +10170,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9624,7 +10196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9650,7 +10222,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9676,7 +10248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9702,7 +10274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kancheepuram",
@@ -9728,7 +10300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9754,7 +10326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9780,7 +10352,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9806,7 +10378,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9832,7 +10404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -9858,7 +10430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kancheepuram",
@@ -9884,7 +10456,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -9910,7 +10482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Trichy",
@@ -9936,7 +10508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Puthukottai",
@@ -9962,7 +10534,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Vellore",
@@ -9988,7 +10560,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -10014,7 +10586,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thirunelveli",
@@ -10040,7 +10612,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -10066,7 +10638,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -10092,7 +10664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thiruvallur",
@@ -10118,7 +10690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -10144,7 +10716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kanyakumari",
@@ -10170,7 +10742,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
@@ -10196,7 +10768,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Tiruppur",
@@ -10222,7 +10794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Kanyakumari",
@@ -10248,7 +10820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Coimbatore",
@@ -10274,18 +10846,18 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "UAE",
         "State": "Abu Dhabi & Al Ain",
         "City": "Abu Dhabi",
-        "Name": "Abudhabi - Ladies Centre",
+        "Name": "Abudhabi - SKY Meditation Centre",
         "CenterNumber": "unknown",
-        "Address": "Iron Fist Sport Club & Gym, Hamdan street, Near Krishna Sweets - Abu Dhabi.",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N. KavithaVijayabaskar",
-        "Mobile_1": "00971 55 1015971",
-        "Mobile_2": "-",
-        "Landline": "-",
+        "Address": "-",
+        "Zone": "Abu Dhabi & Al Ain",
+        "ContactPersonName": "-",
+        "Mobile_1": "055 5512890 ",
+        "Mobile_2": "050 7518735 ",
+        "Landline": "050 3317814",
         "Email": "skyyogaabudhabi2020@gmail.com",
         "Email_2": ""
       },
@@ -10300,111 +10872,33 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "UAE",
         "State": "Abu Dhabi & Al Ain",
         "City": "Abu Dhabi",
-        "Name": "Abudhabi - SKY Centre",
+        "Name": "Mussafah & Al Ain - SKY Meditation center",
         "CenterNumber": "unknown",
-        "Address": "Iron Fist Sport Club & Gym, Hamdan street, Near Krishna Sweets - Abu Dhabi.",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N Selva Rangaraj",
-        "Mobile_1": "00971 55 5512890",
-        "Mobile_2": "-",
-        "Landline": "-",
+        "Address": "-",
+        "Zone": "Al Ain",
+        "ContactPersonName": "-",
+        "Mobile_1": "055 5512890 ",
+        "Mobile_2": "050 7518735 ",
+        "Landline": "050 3317814",
         "Email": "skyyogaabudhabi2020@gmail.com",
         "Email_2": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.36959418,
-          24.49689285
+          55.61941734,
+          24.25874016
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Abu Dhabi & Al Ain",
-        "City": "Al Ain",
-        "Name": "Al-Ain Abudhabi Sub centre",
-        "CenterNumber": "WCSC/APP(S)/UAE/013",
-        "Address": "AL AIN",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N. Muthuraman.M",
-        "Mobile_1": "00971 50 3317814",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skyyogaabudhabi2020@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.75434157,
-          24.22004265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Abu Dhabi & Al Ain",
-        "City": "Abu Dhabi",
-        "Name": "Musaffah, Abudhabi Sub Centre",
-        "CenterNumber": "WCSC/APP(S)/UAE/012",
-        "Address": "Nirtya Kala Dance & Music Center, Mohamed Bin Zayed CityME-10 - Mussafah, Abu Dhabi.",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N Subbiah Arumugam",
-        "Mobile_1": "00971 50 2726439",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skyyogaabudhabi2020@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.53025343,
-          24.33433015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Abu Dhabi & Al Ain",
-        "City": "Abu Dhabi",
-        "Name": "SKY Yoga Club -Abudhabi",
-        "CenterNumber": "WCSC/Aff/UAE/005",
-        "Address": "901-1, Plot C 36, Street 16, Tourist Club Area, Abu Dhabi, UAE.",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N. Vijayabaskar",
-        "Mobile_1": "00971 55 1015971",
-        "Mobile_2": "",
-        "Landline": "-",
-        "Email": "jvijayabaskar@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.4083366,
-          24.4989668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Australasia/Oceania",
+        "Continent": "Australasia/Oceania",
         "Country": "Australia",
         "State": "New South Wales",
         "City": "Homebush",
@@ -10430,7 +10924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Australasia/Oceania",
+        "Continent": "Australasia/Oceania",
         "Country": "Australia",
         "State": "Perth",
         "City": "Huntingdale",
@@ -10456,7 +10950,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Australasia/Oceania",
+        "Continent": "Australasia/Oceania",
         "Country": "Australia",
         "State": "Victoria",
         "City": "Magill",
@@ -10482,7 +10976,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Australasia/Oceania",
+        "Continent": "Australasia/Oceania",
         "Country": "Australia",
         "State": "Victoria",
         "City": "Dandenong",
@@ -10508,7 +11002,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Australasia/Oceania",
+        "Continent": "Australasia/Oceania",
         "Country": "Australia",
         "State": "Victoria",
         "City": "Clarinda",
@@ -10534,7 +11028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "Austria",
         "State": "Vorarlberg",
         "City": "Vorarlberg",
@@ -10560,7 +11054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Bahrain",
         "State": "Bahrain",
         "City": "Manama",
@@ -10586,7 +11080,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Cambodia",
         "State": "Cambodia",
         "City": "CAMBODIA",
@@ -10594,11 +11088,11 @@
         "CenterNumber": "unknown",
         "Address": "Phnom Penh, Near Olympic Market, Cambodia",
         "Zone": "",
-        "ContactPersonName": "-",
-        "Mobile_1": "-",
+        "ContactPersonName": "Sathappan Kasi",
+        "Mobile_1": "00855 87271035",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "-",
+        "Email": "sksathapan@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -10612,7 +11106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "Canada",
         "State": "Canada",
         "City": "Toronto",
@@ -10638,7 +11132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "Canada",
         "State": "Canada",
         "City": "Toronto-West",
@@ -10646,11 +11140,11 @@
         "CenterNumber": "unknown",
         "Address": "40 Voyager court North Etobikoke ,ON M9W 4Y3 Toronto Canada",
         "Zone": "USA",
-        "ContactPersonName": "-",
-        "Mobile_1": "-",
+        "ContactPersonName": "Siva",
+        "Mobile_1": " +1 (416) 727-3110",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "-",
+        "Email": "admin@skyyogacanada.com",
         "Email_2": ""
       },
       "geometry": {
@@ -10664,7 +11158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "Denmark",
         "State": "Denmark",
         "City": "Vildbjerg",
@@ -10690,397 +11184,33 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "UAE",
         "State": "Dubai",
-        "City": "Al Nahda",
-        "Name": "Dubai - Al Nahda (Ladies)",
-        "CenterNumber": "WCSC/APP(S)/UAE/040",
-        "Address": " Flat No. 102, Buamiim Building, Near Zulekha Hospital, Al Nahda - 2 Dubai ",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Priya",
-        "Mobile_1": "00971 55 9939291",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skyalnahdaladies@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.3843647,
-          25.2912233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Dubai",
-        "City": "Dubai - DIP",
-        "Name": "Dubai Dubai Investment Park, Green Community - East",
+        "City": "Sharjah",
+        "Name": "Dubai & Sharjah - SKY Meditation centers",
         "CenterNumber": "unknown",
-        "Address": "PARTY HALL SWIMMING POOL 05 , GREEN COMMUNITY EAST, NEAR NMC HOSPITAL",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Gnanaeaswari, A/N. Ramkumar ",
-        "Mobile_1": "00971 55 4041600, ",
-        "Mobile_2": "00971 55 3006600",
-        "Landline": "-",
-        "Email": "skydip@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.1561407,
-          25.005669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Dubai",
-        "City": "Discovery Gardens",
-        "Name": "Dubai - Discovery Gardens",
-        "CenterNumber": "unknown",
-        "Address": "FLAT-117, ZEN CLUSTER BUILDING-09, ASTER CLINIC BUILDING, DUBAI",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Gnanaeswari",
-        "Mobile_1": "00971 55 4041600",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skygardensdxb@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          54.947555,
-          25.0757595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Dubai",
-        "City": "Discovery Gardens",
-        "Name": "Dubai-Discovery Gardens(ladies)",
-        "CenterNumber": "unknown",
-        "Address": "LADIES- DUBAI - DISCOVERY GARDENS FLAT-318 , ZEN CLUSTER , BUILDING 10, ASTER SPECIALITY CLINIC BUILDING, DUBAI",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N. Anuratha",
-        "Mobile_1": "00971 50 9207067",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skygardensdxb@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.1260204,
-          25.0918278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Dubai",
-        "City": "Karama",
-        "Name": "Dubai - Karama",
-        "CenterNumber": "WCSC/APP(S)/UAE/003",
-        "Address": "GOLDEN FALCON KARATE CENTRE, MEZANNINE FLOOR , AL ADIL SUPERMARKET BUILDING",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Baranidaran",
-        "Mobile_1": "00971 56 7533010",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skykarama@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.30875186,
-          25.25142618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Dubai",
-        "City": "Karama",
-        "Name": "Dubai-Karama(ladies)",
-        "CenterNumber": "unknown",
-        "Address": "FLAT - 404 , KARAMA 4 BUILDING (GOLDEN STAR KARATE ), NEAR LULU HYPER MARKET , BEHIND KALYAN SILKS, DUBAI",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Vennilla",
-        "Mobile_1": "00971 55 9961852",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skykarama@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.2952825,
-          25.26030044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Dubai",
-        "City": "Muhaisnah",
-        "Name": "Dubai - Muhaisnah (Ladies)",
-        "CenterNumber": "WCSC/APP(S)/UAE/005",
-        "Address": " Flat No. - 409, Hamda Building, Near Madina Mall, Muhaisnah - 4, Dubai",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N. Anuratha",
-        "Mobile_1": "00971 50 9207067",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skymuhaisnah@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.39824541,
-          25.28220601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Dubai",
-        "City": "Muhaisnah",
-        "Name": "Dubai - Muhaisnah",
-        "CenterNumber": "WCSC/APP(S)/UAE/004",
-        "Address": " Flat - 409, Hamda Building, Near Muhaisnah - 4, Dubai.",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Muthukumar",
-        "Mobile_1": "00971 50 1483590",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skymuhaisnah@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.39824541,
-          25.28220601
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Sharjah",
-        "City": "Abu Shagara",
-        "Name": "Sharjah - Abushagara",
-        "CenterNumber": "WCSC/APP(S)/UAE/011",
-        "Address": " Flat No. 431 Alnaqoos Building, Near AbuShagara Park, AbuShagara,Sharjah",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N. Ambika",
-        "Mobile_1": "00971 55 1806707",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skyabushagara@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.39529142,
-          25.31297437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Sharjah",
-        "City": "Al Nahda",
-        "Name": "Sharjah - Al Nahda",
-        "CenterNumber": "WCSC/APP(S)/UAE/009",
-        "Address": "GOLDEN FALCON KARATE CENTRE, SEALAND RESTAURANT BUILDING , AL NAHDA , SHARJAH",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Satheeshkumar",
-        "Mobile_1": "00971 55 9910146",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skyalnahda@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.3913984,
-          25.3548448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Sharjah",
-        "City": "Al Qasimia",
-        "Name": "Sharjah - Al Qasimia(Ladies)",
-        "CenterNumber": "unknown",
-        "Address": "FLAT-801 , AL OWAIS BUILDING ,OPPOSITE TO AL BUSTAN TOWER , NEAR CRYSTAL PLAZA HOTEL, SHARJAH",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Prasannadevi",
-        "Mobile_1": "00971 55 4903934",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skysharjah@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.3923691,
-          25.3420258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Sharjah",
-        "City": "Al Qasimia",
-        "Name": "Sharjah - Al Qasimia",
-        "CenterNumber": "WCSC/APP(S)/UAE/010",
-        "Address": "NIMR AL KHALEEJ KARATE CENTRE M02, TARIQ BUILDING , NEAR SPARK HOTEL , AL NAD, SHARJAH.",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": " A/N. Kumar",
-        "Mobile_1": "00971 50 5398996",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skysharjah@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.3893686,
-          25.3417989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Sharjah",
-        "City": "Muwaileh",
-        "Name": "Sharjah - Muwaileh",
-        "CenterNumber": "WCSC/APP(S)/UAE/008",
-        "Address": "AL HUDA CHILDREN SKILL DEVELOPMENT CENTRE , SHAIKHA BUILDING,E102 , NEXT TO HILAL AL MADINA SUPERMARKET, ShARJAH",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N.Ilayaraja, A/N.Karthikeyan",
-        "Mobile_1": "00971 05 62471108,",
-        "Mobile_2": "00971 55 8085352",
-        "Landline": "-",
-        "Email": "skynationalpaints@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.4527446,
-          25.28507842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Sharjah",
-        "City": "Muwaileh",
-        "Name": "Sharjah-Muwaileh(Ladies)",
-        "CenterNumber": "unknown",
-        "Address": "FLAT-302 , BUILDING NO-3521, OPPOSITE TO TAREEQ AL NOOF STATIONARY, MUWAILEH SCHOOL ZONE AREA, SHARJAH",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "Gokila, Lekamani",
-        "Mobile_1": "00971 52 5262440, ",
-        "Mobile_2": "00971 55 3766330",
-        "Landline": "-",
-        "Email": "skynationalpaints@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          55.45015358,
-          25.2885682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "﻿Continent": "Asia",
-        "Country": "UAE",
-        "State": "Ajman",
-        "City": "Rashidiya",
-        "Name": "Ajman - Rashidiya",
-        "CenterNumber": "unknown",
-        "Address": "FLAT-108 , AL SHALI BUILDING , OPPOSITE TO FALCON TOWER-A5, NEAR NESTO HYPERMARKET, AJMAN",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N Ganeshkumar, A/N Suthakarpandian",
-        "Mobile_1": "00971 52 8333016,",
-        "Mobile_2": "00971 55 2935443",
-        "Landline": "-",
+        "Address": "-",
+        "Zone": "UAE",
+        "ContactPersonName": "-",
+        "Mobile_1": "0 506786027",
+        "Mobile_2": "508610327",
+        "Landline": "556772626",
         "Email": "wcscuae@gmail.com",
-        "Email_2": "mmurugaraj@gmail.com"
+        "Email_2": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.44839818,
-          25.39894458
+          55.41652211,
+          25.26236335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "France",
         "State": "France",
         "City": "Courbevoie",
@@ -11106,7 +11236,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Japan",
         "State": "Tokyo",
         "City": "Omihachiman shi",
@@ -11115,8 +11245,8 @@
         "Address": "Shiga - 523-0815, Omihachiman shi, Wakaba cho3Chome 1796-9,",
         "Zone": "Japan",
         "ContactPersonName": "A/N. R. Manikandan ",
-        "Mobile_1": "0081 9060588297",
-        "Mobile_2": "0081 9443010793",
+        "Mobile_1": "+81 90-6058-8297 ",
+        "Mobile_2": "-",
         "Landline": "-",
         "Email": "maninature@gmail.com",
         "Email_2": "nmtradingjpn@gmail.com"
@@ -11132,33 +11262,33 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Japan",
         "State": "Tokyo",
         "City": "Tokyo",
-        "Name": "Tokyo SKY Meditation Centre - Japan",
+        "Name": "Tokyo SKY meditation centre",
         "CenterNumber": "unknown",
-        "Address": "Flat no 401, 1-chōme-3-3 Seishincho, Edogawa City, Tokyo, Japan, 134-0087",
+        "Address": "Flat no 401, 1-ch?me-3-3 Seishincho, Edogawa City, Tokyo, Japan, 134-0087",
         "Zone": "Japan",
-        "ContactPersonName": "Mariraj Sankaran, Murugeswari Thirumalai",
-        "Mobile_1": "0081-70-8456-561",
-        "Mobile_2": "0081-70-1265-7906 (Whatsapp), 0081-80-8010-7443 (Phone)",
-        "Landline": "-",
+        "ContactPersonName": "A/N. Mariraj Sankaran, Murugeswari Thirumalai",
+        "Mobile_1": " +81-70-8456-561",
+        "Mobile_2": "-9160",
+        "Landline": "-15452",
         "Email": "mariraj.sankaran@gmail.com",
         "Email_2": "tmurugeswari@gmail.com"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.8564579,
-          35.66040379
+          139.8563613,
+          35.66036892
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Kuwait",
         "State": "Kuwait",
         "City": "abbasiya ",
@@ -11184,7 +11314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Kuwait",
         "State": "Kuwait",
         "City": "Fahaheel",
@@ -11210,7 +11340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Kuwait",
         "State": "Kuwait",
         "City": "Kuwait City",
@@ -11236,7 +11366,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Kuwait",
         "State": "Kuwait",
         "City": "Mangaf",
@@ -11262,7 +11392,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Kuwait",
         "State": "Kuwait",
         "City": "Salmiya",
@@ -11288,7 +11418,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Batu Caves",
@@ -11314,7 +11444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Dickson",
@@ -11340,7 +11470,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "IPOH",
@@ -11366,7 +11496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Johor",
@@ -11392,7 +11522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Johor",
@@ -11403,7 +11533,7 @@
         "ContactPersonName": "-",
         "Mobile_1": "-",
         "Mobile_2": "-",
-        "Landline": "-",
+        "Landline": "",
         "Email": "-",
         "Email_2": ""
       },
@@ -11418,7 +11548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Johor",
@@ -11428,8 +11558,8 @@
         "Zone": "Malaysia",
         "ContactPersonName": "-",
         "Mobile_1": "-",
-        "Mobile_2": "-",
-        "Landline": "-",
+        "Mobile_2": "",
+        "Landline": "",
         "Email": "-",
         "Email_2": ""
       },
@@ -11444,7 +11574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Johor",
@@ -11470,7 +11600,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Johor",
@@ -11496,7 +11626,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Johor",
@@ -11504,12 +11634,12 @@
         "CenterNumber": "unknown",
         "Address": "No.4, 1st Floor, Jalan Hang Tuah 4/1, Taman Muhibbah, 86000, Kluang, Johor, Malaysia",
         "Zone": "Malaysia",
-        "ContactPersonName": "-",
-        "Mobile_1": "-",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "-",
-        "Email_2": ""
+        "ContactPersonName": "�Prof.(T) E. Sreekantan,Prof. Prasanna Shanmuganathan, A/N. V. Palanisamy",
+        "Mobile_1": " 006-012-3643620/0060 - 197 566 636",
+        "Mobile_2": " 006-010-12172599/ 0060 - 126 130 413",
+        "Landline": "",
+        "Email": "skykantan@yahoo.com",
+        "Email_2": "sky.prasanna@gmail.com"
       },
       "geometry": {
         "type": "Point",
@@ -11522,7 +11652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Klang",
@@ -11535,7 +11665,7 @@
         "Mobile_2": "-",
         "Landline": "-",
         "Email": "-",
-        "Email_2": ""
+        "Email_2": " "
       },
       "geometry": {
         "type": "Point",
@@ -11548,7 +11678,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Kuala lumpur",
@@ -11574,7 +11704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Kuala lumpur",
@@ -11600,7 +11730,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Kuala lumpur",
@@ -11626,7 +11756,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Kulim",
@@ -11652,7 +11782,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Perak",
@@ -11678,7 +11808,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Perak",
@@ -11704,7 +11834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Perak",
@@ -11730,7 +11860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Selangor",
@@ -11756,7 +11886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Selangor",
@@ -11782,7 +11912,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Selangor",
@@ -11808,7 +11938,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Selangor",
@@ -11834,7 +11964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Selangor",
@@ -11860,7 +11990,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Selangor",
@@ -11886,7 +12016,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Selangor",
@@ -11895,7 +12025,7 @@
         "Address": "Puchong, Selangor, Malaysia",
         "Zone": "Malaysia",
         "ContactPersonName": "A/N. Karmegam, Master In-charge,",
-        "Mobile_1": "0060-012-623-91578 ",
+        "Mobile_1": "0060-012-623-91578�",
         "Mobile_2": "",
         "Landline": "-",
         "Email": "kmegam@gmail.com",
@@ -11912,7 +12042,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Malaysia",
         "State": "Malaysia",
         "City": "Seremban",
@@ -11938,7 +12068,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Nepal",
         "State": "Kathmandu",
         "City": "Kathmandu",
@@ -11964,7 +12094,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "Netherlands",
         "State": "Netherlands",
         "City": "Amsterdam",
@@ -11990,7 +12120,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "Norway",
         "State": "Norway",
         "City": "Oslo",
@@ -12016,7 +12146,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "Norway",
         "State": "Norway",
         "City": "Stavanger",
@@ -12042,59 +12172,59 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Oman",
         "State": "Muscat",
         "City": "Muscat",
         "Name": "SKY Muscat",
         "CenterNumber": "unknown",
-        "Address": " Bahwan Clinic, Suhail Bahwan Group, PO Box No.169, Muscat 100, Sultanate of Oman.",
-        "Zone": "UAE & Oman",
-        "ContactPersonName": "A/N. Dr. Ashok Jain ",
-        "Mobile_1": "00968-9973 5816",
+        "Address": "-",
+        "Zone": "Oman",
+        "ContactPersonName": "A/N-Sankaranarayanan / A/N-Muruganandam",
+        "Mobile_1": "1",
         "Mobile_2": "00968 9524 0423",
         "Landline": "-",
         "Email": "sky.muscat.wcsc@gmail.com",
-        "Email_2": "rajeshu.easun@gmail.com"
+        "Email_2": " "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          58.42447525,
-          23.63668218
+          58.2878631,
+          23.60856068
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Oman",
         "State": "Sohar",
         "City": "Sohar",
         "Name": "SKY Sohar",
         "CenterNumber": "unknown",
-        "Address": " Building 825, Villa No.17, Way No.4636, Al Waqaibah, Sohar, Sultanate of Oman.",
-        "Zone": "UAE & Oman",
+        "Address": "-",
+        "Zone": "Oman",
         "ContactPersonName": "A/N. G. Sairam ",
-        "Mobile_1": "00968-5551 9834",
+        "Mobile_1": "+968 92722584",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "saibhuvi@gmail.com",
-        "Email_2": "bhuvisai@yahoo.com"
+        "Email": "skysohar@gmail.com",
+        "Email_2": " "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.7292072,
-          24.34004306
+          56.70576741,
+          24.35655671
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Qatar",
         "State": "Al Khor",
         "City": "Al Khor",
@@ -12120,7 +12250,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Qatar",
         "State": "Doha",
         "City": "Doha",
@@ -12146,7 +12276,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12172,7 +12302,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12198,7 +12328,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12224,7 +12354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12242,15 +12372,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.873139,
-          1.36658032
+          1.368846592,
+          103.8698476
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12276,7 +12406,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12302,7 +12432,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12328,7 +12458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12354,7 +12484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12380,7 +12510,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12406,7 +12536,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12432,7 +12562,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Singapore",
         "State": "Singapore",
         "City": "Singapore",
@@ -12458,7 +12588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Batticaloa",
         "City": "Batticaloa",
@@ -12484,7 +12614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Colombo",
         "City": "Colombo",
@@ -12510,7 +12640,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Colombo",
         "City": "Colombo",
@@ -12536,7 +12666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Colombo",
         "City": "Colombo",
@@ -12562,7 +12692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Colombo",
         "City": "Colombo",
@@ -12588,7 +12718,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Colombo",
         "City": "Colombo",
@@ -12614,7 +12744,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Colombo",
         "City": "Colombo",
@@ -12640,7 +12770,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Hatton",
         "City": "Hatton",
@@ -12666,7 +12796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Jaffna",
         "City": "Jaffna",
@@ -12692,7 +12822,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Jaffna",
         "City": "Jaffna",
@@ -12718,7 +12848,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Jaffna",
         "City": "Jaffna",
@@ -12744,7 +12874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Kodikamam",
         "City": "Kodikamam",
@@ -12770,7 +12900,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Nawalapitiya",
         "City": "Nawalapitiya",
@@ -12796,7 +12926,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Vavuniya",
         "City": "Vavuniya",
@@ -12822,7 +12952,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Sri Lanka",
         "State": "Wattala",
         "City": "Wattala",
@@ -12848,9 +12978,9 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "Switzerland",
-        "State": "Zürich",
+        "State": "Z�rich",
         "City": "Bahnhaldenstrasse",
         "Name": "SKY Zurich",
         "CenterNumber": "unknown",
@@ -12874,7 +13004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Asia",
+        "Continent": "Asia",
         "Country": "Thailand",
         "State": "Bangkok",
         "City": "Bangkok",
@@ -12900,7 +13030,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "UK",
         "State": "London",
         "City": "Harrow",
@@ -12926,7 +13056,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "UK",
         "State": "London",
         "City": "Ilford",
@@ -12952,7 +13082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "Europe",
+        "Continent": "Europe",
         "Country": "UK",
         "State": "London",
         "City": "Middlesex",
@@ -12978,7 +13108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "Berkeley",
@@ -13004,7 +13134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "Cupertino",
@@ -13030,7 +13160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "Fremont",
@@ -13056,7 +13186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "Los Angeles",
@@ -13082,7 +13212,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "Milpitas",
@@ -13108,7 +13238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "Pleasanton",
@@ -13134,7 +13264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "San Ramon",
@@ -13160,7 +13290,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "California",
         "City": "Sunnyvale",
@@ -13186,7 +13316,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Colorado",
         "City": "Centennial",
@@ -13212,7 +13342,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Colorado",
         "City": "Sacramento",
@@ -13238,7 +13368,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Florida",
         "City": "Miramar",
@@ -13264,7 +13394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Georgia",
         "City": "Cumming",
@@ -13290,7 +13420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Illinois",
         "City": "Vernon Hills",
@@ -13316,7 +13446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Maryland",
         "City": "Ellicott City",
@@ -13342,7 +13472,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Massachusetts",
         "City": "Norwood",
@@ -13368,7 +13498,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Michigan",
         "City": "Detroit",
@@ -13394,7 +13524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Missouri",
         "City": "Ballwin",
@@ -13420,7 +13550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New Jersey",
         "City": "Cranbury",
@@ -13446,7 +13576,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New Jersey",
         "City": "Edison",
@@ -13472,7 +13602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New Jersey",
         "City": "Edison",
@@ -13498,7 +13628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New Jersey",
         "City": "Franklin Park",
@@ -13524,7 +13654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New Jersey",
         "City": "Freehold",
@@ -13550,7 +13680,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New Jersey",
         "City": "Jersey City",
@@ -13576,7 +13706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New Jersey",
         "City": "Monmouth",
@@ -13602,7 +13732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "New York",
         "City": "New York",
@@ -13628,7 +13758,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "North Carolina",
         "City": "Morrisville",
@@ -13654,7 +13784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Texas",
         "City": "Bellaire",
@@ -13680,7 +13810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Texas",
         "City": "McKinney",
@@ -13706,7 +13836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Texas",
         "City": "Plano",
@@ -13732,7 +13862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Virginia",
         "City": "Fairfax",
@@ -13758,7 +13888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Virginia",
         "City": "Richmond",
@@ -13784,7 +13914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Washington",
         "City": "Bellevue",
@@ -13810,7 +13940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "﻿Continent": "North America",
+        "Continent": "North America",
         "Country": "USA",
         "State": "Washington",
         "City": "Sammamish",
