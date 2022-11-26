@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.2286414592181,
-          12.9766258495373
+          80.22864146,
+          12.97662585
         ]
       }
     },
@@ -48,8 +48,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.2179118119863,
-          12.9865044921813
+          80.21791181,
+          12.98650449
         ]
       }
     },
@@ -74,8 +74,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.9952479024593,
-          11.0256678031714
+          76.9952479,
+          11.0256678
         ]
       }
     },
@@ -88,7 +88,7 @@
         "City": "Pune",
         "Name": "Pune Sub Centre",
         "CenterNumber": "unknown",
-        "Address": "No:503,Coral building,Suyog Pearl Co opp soceity,Hadapsar MIDC,Pune, Maharashtra-411013 ",
+        "Address": "No:503,Coral building,Suyog Pearl Co opp soceity,Hadapsar MIDC,Pune, Maharashtra-411013",
         "Zone": "Maharashtra",
         "ContactPersonName": "A/N Sivakumar",
         "Mobile_1": "9833954131",
@@ -100,8 +100,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.914440683615,
-          18.5170176491195
+          73.91444068,
+          18.51701765
         ]
       }
     },
@@ -111,23 +111,23 @@
         "Continent": "Asia",
         "Country": "Saudi Arabia",
         "State": "Saudi Arabia",
-        "City": "   Riyadh",
-        "Name": "SKY Yoga Centre ",
+        "City": "Riyadh",
+        "Name": "SKY Yoga Centre",
         "CenterNumber": "unknown",
         "Address": "-",
         "Zone": "Saudi Arabia",
-        "ContactPersonName": "-",
-        "Mobile_1": "+966 54 756 1215 ",
-        "Mobile_2": "+966 56 651 8977",
-        "Landline": "-",
-        "Email": "npremanandkumar@gmail.com",
+        "ContactPersonName": "Sankar Natarasan",
+        "Mobile_1": "00966 50 018 6089",
+        "Mobile_2": "",
+        "Landline": "",
+        "Email": "skyyogariyadh@gmail.com",
         "Email_2": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.7062996592797,
-          25.015986023545
+          46.70629966,
+          25.01598602
         ]
       }
     },
@@ -153,7 +153,7 @@
         "type": "Point",
         "coordinates": [
           76.95131337,
-          10.473846593422335
+          10.47384659
         ]
       }
     },
@@ -179,7 +179,7 @@
         "type": "Point",
         "coordinates": [
           80.26460384,
-          12.98170562981165
+          12.98170563
         ]
       }
     },
@@ -205,7 +205,7 @@
         "type": "Point",
         "coordinates": [
           76.95243522,
-          10.473473687741544
+          10.47347369
         ]
       }
     },
@@ -231,7 +231,7 @@
         "type": "Point",
         "coordinates": [
           77.96822195,
-          10.39896928251059
+          10.39896928
         ]
       }
     },
@@ -257,7 +257,7 @@
         "type": "Point",
         "coordinates": [
           76.95259677,
-          10.474785120560211
+          10.47478512
         ]
       }
     },
@@ -283,7 +283,7 @@
         "type": "Point",
         "coordinates": [
           76.95210959,
-          10.474787338432881
+          10.47478734
         ]
       }
     },
@@ -309,7 +309,7 @@
         "type": "Point",
         "coordinates": [
           77.72380217,
-          11.333542855657598
+          11.33354286
         ]
       }
     },
@@ -335,7 +335,7 @@
         "type": "Point",
         "coordinates": [
           80.26174398,
-          12.995945101305033
+          12.9959451
         ]
       }
     },
@@ -361,7 +361,7 @@
         "type": "Point",
         "coordinates": [
           76.97511346,
-          11.004769770621076
+          11.00476977
         ]
       }
     },
@@ -387,7 +387,7 @@
         "type": "Point",
         "coordinates": [
           77.96941494,
-          10.363012311893225
+          10.36301231
         ]
       }
     },
@@ -413,7 +413,7 @@
         "type": "Point",
         "coordinates": [
           77.68921304,
-          11.341583246638002
+          11.34158325
         ]
       }
     },
@@ -439,7 +439,7 @@
         "type": "Point",
         "coordinates": [
           79.38780434,
-          10.962970370854245
+          10.96297037
         ]
       }
     },
@@ -465,7 +465,7 @@
         "type": "Point",
         "coordinates": [
           78.13019801,
-          9.94124834462197
+          9.941248345
         ]
       }
     },
@@ -491,7 +491,7 @@
         "type": "Point",
         "coordinates": [
           78.142216,
-          11.61794275429192
+          11.61794275
         ]
       }
     },
@@ -517,7 +517,7 @@
         "type": "Point",
         "coordinates": [
           77.73709137,
-          8.674421679372582
+          8.674421679
         ]
       }
     },
@@ -543,7 +543,7 @@
         "type": "Point",
         "coordinates": [
           79.10477036,
-          12.434784904982346
+          12.4347849
         ]
       }
     },
@@ -569,7 +569,7 @@
         "type": "Point",
         "coordinates": [
           78.75765034,
-          10.794195455408461
+          10.79419546
         ]
       }
     },
@@ -595,7 +595,7 @@
         "type": "Point",
         "coordinates": [
           79.48382664,
-          11.938648054299529
+          11.93864805
         ]
       }
     },
@@ -621,7 +621,7 @@
         "type": "Point",
         "coordinates": [
           77.91857615,
-          9.351591619165918
+          9.351591619
         ]
       }
     },
@@ -647,7 +647,7 @@
         "type": "Point",
         "coordinates": [
           77.34509598,
-          11.135440205910806
+          11.13544021
         ]
       }
     },
@@ -673,7 +673,7 @@
         "type": "Point",
         "coordinates": [
           80.1610998,
-          13.130105106809697
+          13.13010511
         ]
       }
     },
@@ -699,7 +699,7 @@
         "type": "Point",
         "coordinates": [
           77.81687805,
-          12.736155569362209
+          12.73615557
         ]
       }
     },
@@ -1140,8 +1140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.6008033889121,
-          12.9585658956102
+          77.60080339,
+          12.9585659
         ]
       }
     },
@@ -1466,10 +1466,10 @@
         "City": "Bengaluru",
         "Name": "Bangalore Vimanapura SKY Trust",
         "CenterNumber": "A.NO.295",
-        "Address": "No.25, 15th Cross, Ramesh Nagar,Marathahalli, Bengaluru – 560 037 ",
+        "Address": "No.25, 15th Cross, Ramesh Nagar,Marathahalli, Bengaluru – 560 037",
         "Zone": "Karnataka",
-        "ContactPersonName": "  A/N M. Nagaraj",
-        "Mobile_1": " 9945505223",
+        "ContactPersonName": "A/N M. Nagaraj",
+        "Mobile_1": "9945505223",
         "Mobile_2": "-",
         "Landline": "-",
         "Email": "mnagarajsky1@gmail.com",
@@ -1478,8 +1478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.6778518511534,
-          12.9652216889429
+          77.67785185,
+          12.96522169
         ]
       }
     },
@@ -5378,8 +5378,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.2246658681944,
-          12.9823235390802
+          80.22466587,
+          12.98232354
         ]
       }
     },
@@ -5397,7 +5397,7 @@
         "ContactPersonName": "A/N.A.Nehru, suresh",
         "Mobile_1": "9894466219",
         "Mobile_2": "9894466219",
-        "Landline": ",9942502224",
+        "Landline": "9942502224",
         "Email": "aranthangi.skyyoga@vethathiri.ac.in",
         "Email_2": ""
       },
@@ -6586,32 +6586,6 @@
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
-        "Name": "Chrompet Umayalpuram MVKM Trust",
-        "CenterNumber": "A.NO.270",
-        "Address": "Plot No.9, Athirai Street, Umayalpuram, Chromepet, Chennai - 600 044.",
-        "Zone": "Kancheepuram",
-        "ContactPersonName": "A/N.Rama.Sundaresan",
-        "Mobile_1": "9840205758",
-        "Mobile_2": "9940486809",
-        "Landline": "044-22410634, 9940486809, 9840205758, 9444570398",
-        "Email": "vw040umayalpuram@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.1909588,
-          12.9822107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Chennai",
         "Name": "Saidapet Jones Road MVKM Trust",
         "CenterNumber": "A.NO.271",
         "Address": "Brindhavan Illam, No.45/ 17 & 18. Jones Road, Saidapet, Chennai - 15.",
@@ -6879,7 +6853,7 @@
         "ContactPersonName": "A/N.B.Shanmuga Velayudam",
         "Mobile_1": "9840062350",
         "Mobile_2": "9940217518",
-        "Landline": "044:42300194",
+        "Landline": "044-42300194",
         "Email": "attvmvkmtrust@hotmail.com",
         "Email_2": ""
       },
@@ -7198,8 +7172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.2532444123724,
-          12.9459551187797
+          80.25324441,
+          12.94595512
         ]
       }
     },
@@ -7718,8 +7692,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.9773881310944,
-          12.0580465290373
+          78.97738813,
+          12.05804653
         ]
       }
     },
@@ -7960,7 +7934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Continent": "Asia ",
+        "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Erode",
@@ -8134,8 +8108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4803897940185,
-          10.0174626895784
+          77.48038979,
+          10.01746269
         ]
       }
     },
@@ -13166,13 +13140,13 @@
         "City": "Bangkok",
         "Name": "Bangkok SKY Meditation Centre",
         "CenterNumber": "unknown",
-        "Address": "9B, Siam Mansion, 87 Sukumvit Soi 12, Bangkok 10110, Thailand.",
+        "Address": "Kajonkit Mansion, 1729, Moo-4, Soi Prajaksin-3, Theparak Road, Thambon Theprak, Changwat, Samutprakarn, Bangkok",
         "Zone": "Thailand",
-        "ContactPersonName": "SKY Prof. VR. Mathivanan",
-        "Mobile_1": "0066-38-533068",
-        "Mobile_2": "0066-2-2517777",
-        "Landline": "0066-87-0790595",
-        "Email": "mathivanansky@gmail.com",
+        "ContactPersonName": "S. Selvaraj",
+        "Mobile_1": "0066-82-3646760",
+        "Mobile_2": "-",
+        "Landline": "-",
+        "Email": "skype: selvarajsari",
         "Email_2": ""
       },
       "geometry": {
@@ -14108,8 +14082,7 @@
         "Mobile_1": "001-425-445-4491",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "viknarajesh@yahoo.com",
-        "Email_2": ""
+        "Email": "viknarajesh@yahoo.com"
       },
       "geometry": {
         "type": "Point",
