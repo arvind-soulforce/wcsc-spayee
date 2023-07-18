@@ -7,136 +7,6 @@
         "Continent": "Asia",
         "Country": "India",
         "State": "Tamilnadu",
-        "City": "Chennai",
-        "Name": "Annai Indira Nagar Subcenter",
-        "CenterNumber": "unknown",
-        "Address": "No:4, Plot no:13, 12th Street,Dancy nagar,Annai Indira nagar,Velacherry,Cheenai-600042.",
-        "Zone": "Chennai",
-        "ContactPersonName": "A/N Dhanasekari kattaiyan",
-        "Mobile_1": "9787489086",
-        "Mobile_2": "9444376065",
-        "Landline": "-",
-        "Email": "sgsambandam@ahoo.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.22864146,
-          12.97662585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Chennai",
-        "Name": "Sasi Nagar Subcenter",
-        "CenterNumber": "unknown",
-        "Address": "no:4/1, Balaji Colony Main road,Sasi nagar,100 Ft byepass road,near erikarai,Velacherry,Chennai,600042.",
-        "Zone": "Chennai",
-        "ContactPersonName": "A/n Parivallal",
-        "Mobile_1": "9940489362",
-        "Mobile_2": "9791006674 / 9080192425",
-        "Landline": "044-22593979",
-        "Email": "sgsambandam@ahoo.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          80.21791181,
-          12.98650449
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
-        "City": "Coimbatore",
-        "Name": "Kovai Central MVKM Trust",
-        "CenterNumber": "A.No.519",
-        "Address": "No.469-C, Avinasi Salai,Kalki Nagar, ESSO Bunk,Peelamedu, Kovai 641 004.",
-        "Zone": "Coimbatore",
-        "ContactPersonName": "A/N.P.K.Aroomugum",
-        "Mobile_1": "9842294197",
-        "Mobile_2": "9486158674",
-        "Landline": "",
-        "Email": "",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          76.9952479,
-          11.0256678
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Maharashtra",
-        "City": "Pune",
-        "Name": "Pune Sub Centre",
-        "CenterNumber": "unknown",
-        "Address": "No:503,Coral building,Suyog Pearl Co opp soceity,Hadapsar MIDC,Pune, Maharashtra-411013",
-        "Zone": "Maharashtra",
-        "ContactPersonName": "A/N Sivakumar",
-        "Mobile_1": "9833954131",
-        "Mobile_2": "9588664043",
-        "Landline": "",
-        "Email": "skyonlinepune@gmail.com",
-        "Email_2": "vskr2002@gmail.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.91444068,
-          18.51701765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "Saudi Arabia",
-        "State": "Saudi Arabia",
-        "City": "Riyadh",
-        "Name": "SKY Yoga Centre",
-        "CenterNumber": "unknown",
-        "Address": "-",
-        "Zone": "Saudi Arabia",
-        "ContactPersonName": "Sankar Natarasan",
-        "Mobile_1": "00966 50 018 6089",
-        "Mobile_2": "",
-        "Landline": "",
-        "Email": "skyyogariyadh@gmail.com",
-        "Email_2": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          46.70629966,
-          25.01598602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Continent": "Asia",
-        "Country": "India",
-        "State": "Tamilnadu",
         "City": "Pollachi",
         "Name": "Temple of consciousness - Aliyar",
         "CenterNumber": "_",
@@ -216,9 +86,9 @@
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Dindigul",
-        "Name": "Directorate Of SMART – WCSC",
-        "CenterNumber": "_",
-        "Address": "2/428, Vethathiri Nagar, Collectorate (P.O.),Dindigul – 624 004.",
+        "Name": "Directorate Of SMART � WCSC",
+        "CenterNumber": "0",
+        "Address": "2/428, Vethathiri Nagar, Collectorate (P.O.),Dindigul - 624 004.",
         "Zone": "Dindigul",
         "ContactPersonName": "A/N. M.K. Dhamodharan",
         "Mobile_1": "9442735656",
@@ -268,6 +138,32 @@
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Pollachi",
+        "Name": "WCSC - IT (R & D)",
+        "CenterNumber": "_",
+        "Address": "Directorate of Research & Development,Temple of Consciousness,Arut perum jothi Nagar,Aliyar-642 101,Pollachi Taluk,Coimbatore(District).",
+        "Zone": "Aliyar",
+        "ContactPersonName": "A/N.Krish Murali Eshwar,",
+        "Mobile_1": "9900240211",
+        "Mobile_2": "9442130679",
+        "Landline": "4253-288552",
+        "Email": "director.it@vethathiri.ac.in",
+        "Email_2": "skyrc.rnd@vethathiri.res.in"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95063622,
+          10.47353927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Pollachi",
         "Name": "Jothi Siddha Clinic",
         "CenterNumber": "_",
         "Address": "Jothi Siddha Clinic,Temple of Consciousness,Arut perum jothi Nagar,Aliyar-642 101,Pollachi Taluk,Coimbatore(District).",
@@ -275,7 +171,7 @@
         "ContactPersonName": "A/N. Dr. V. M. Rajasekaran. BSMS",
         "Mobile_1": "9865278544",
         "Mobile_2": "",
-        "Landline": "04253 – 288544",
+        "Landline": "04253 - 288544",
         "Email": "siddhadoctor.aliyar@vethathiri.org",
         "Email_2": "research@vethathiri.res.in"
       },
@@ -348,9 +244,9 @@
         "City": "Coimbatore",
         "Name": "Coimbatore - Zone Office",
         "CenterNumber": "_",
-        "Address": "743, Avanishi Road,Near Anna Selai,Coimbatore – 641 018",
+        "Address": "743, Avanishi Road,Near Anna Selai,Coimbatore - 641 018",
         "Zone": "Coimbatore",
-        "ContactPersonName": "A/N.R.Pachiappan",
+        "ContactPersonName": "A/N.Subban ",
         "Mobile_1": "9486976767",
         "Mobile_2": "0422-2222411",
         "Landline": "0422-6547440",
@@ -400,7 +296,7 @@
         "City": "Erode",
         "Name": "Erode - Zone Office",
         "CenterNumber": "_",
-        "Address": "L.41, Housing Unit, Anna Nagar,Nasiyanoor Road,Erode – 638 011",
+        "Address": "L.41, Housing Unit, Anna Nagar,Nasiyanoor Road,Erode - 638 011",
         "Zone": "Erode",
         "ContactPersonName": "A/N. V.M.Venkatachalam",
         "Mobile_1": "9095335366",
@@ -425,7 +321,7 @@
         "State": "Tamilnadu",
         "City": "Kumbakonam",
         "Name": "Kumbakonam - Zone Office",
-        "CenterNumber": "_",
+        "CenterNumber": "",
         "Address": "No:5, Noor Nagar, Pidari Kulam Road, Kumbakonam-612001.",
         "Zone": "Kumbakonam",
         "ContactPersonName": "A/N.V.Periyasami",
@@ -660,7 +556,7 @@
         "City": "Chennai",
         "Name": "Thiruvallur - Zone Office",
         "CenterNumber": "_",
-        "Address": "NO- 55/25, PERUMAL KOIL STREET, PUDHUR, AMBATTUR, CHENNAI – 600",
+        "Address": "NO- 55/25, PERUMAL KOIL STREET, PUDHUR, AMBATTUR, CHENNAI - 600",
         "Zone": "Thiruvallur",
         "ContactPersonName": "A/N. D. Krishnamoorthy",
         "Mobile_1": "9840161572",
@@ -1000,7 +896,7 @@
         "CenterNumber": "_",
         "Address": "Plot No:37,2nd cross,JC Chandraya street,1st block ,10th cross, Akshay nagar .Bangalore-560016",
         "Zone": "Karnataka",
-        "ContactPersonName": "A/N Kirneswari",
+        "ContactPersonName": "A/N Kiraneswari",
         "Mobile_1": "9845243476",
         "Mobile_2": "_",
         "Landline": "_",
@@ -1128,7 +1024,7 @@
         "City": "Bengaluru",
         "Name": "Bangalore K.R Puram SKY Trust",
         "CenterNumber": "A.NO.70",
-        "Address": "No. 3/2, Nandavanam, ‘A’ Street, Halasuru,Jogupalayam, Bengaluru – 560 008.",
+        "Address": "No. 3/2, Nandavanam, -A- Street, Halasuru,Jogupalayam, Bengaluru - 560 008.",
         "Zone": "Karnataka",
         "ContactPersonName": "A/N T.P. Chandrasekar",
         "Mobile_1": "9632050311",
@@ -1312,11 +1208,11 @@
         "CenterNumber": "A.NO.207",
         "Address": "No.306, 3rd Floor, Hari Kunj Apts, Sindhi Society, Chembur, Mumbai - 400071.",
         "Zone": "Mumbai",
-        "ContactPersonName": "A/N.Hemalatha Chandrasekaran",
-        "Mobile_1": "9322277766",
-        "Mobile_2": "0-9322266633",
+        "ContactPersonName": "A/N. Ashok Rathnasamy",
+        "Mobile_1": "98197 30435",
+        "Mobile_2": "",
         "Landline": "022-32964897",
-        "Email": "srihemchand@hotmail.com",
+        "Email": "prashok27@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -1466,10 +1362,10 @@
         "City": "Bengaluru",
         "Name": "Bangalore Vimanapura SKY Trust",
         "CenterNumber": "A.NO.295",
-        "Address": "No.25, 15th Cross, Ramesh Nagar,Marathahalli, Bengaluru – 560 037",
+        "Address": "No.25, 15th Cross, Ramesh Nagar,Marathahalli, Bengaluru - 560 037",
         "Zone": "Karnataka",
         "ContactPersonName": "A/N M. Nagaraj",
-        "Mobile_1": "9945505223",
+        "Mobile_1": "-9945505223",
         "Mobile_2": "-",
         "Landline": "-",
         "Email": "mnagarajsky1@gmail.com",
@@ -1496,7 +1392,7 @@
         "Zone": "Karnataka",
         "ContactPersonName": "A/N.P.Dhanapathi",
         "Mobile_1": "9448471694",
-        "Mobile_2": "-",
+        "Mobile_2": "9448174309",
         "Landline": "-",
         "Email": "drdhanapathip@gmail.com",
         "Email_2": "wcsc.karnatakazone@gmail.com"
@@ -1524,7 +1420,7 @@
         "Mobile_1": "8240455862",
         "Mobile_2": "9433399904",
         "Landline": "8691400192",
-        "Email": "srimathy.mani@gmail.com",
+        "Email": "smtsky2008@gmail.com",
         "Email_2": "smtsky2008@gmail.com"
       },
       "geometry": {
@@ -1570,10 +1466,10 @@
         "City": "Mysuru",
         "Name": "Mysore Brindavan SKY Trust",
         "CenterNumber": "A.NO.344",
-        "Address": "#241, Kantharaj Urs Road, Treasury Layout, Kergalli, Mysore - 570026.",
+        "Address": "No.241, Advaitham, Treasury Layout, Bogathi Post Office, Mysore - 570 026.",
         "Zone": "Karnataka",
-        "ContactPersonName": "A/N.N.Devaraj",
-        "Mobile_1": "9449621430",
+        "ContactPersonName": "A/N. Kantharaju. B. P.",
+        "Mobile_1": "9035500812",
         "Mobile_2": "8212415007",
         "Landline": "-",
         "Email": "-",
@@ -1808,7 +1704,7 @@
         "Zone": "Telangana",
         "ContactPersonName": "A/N.S.Sivanageswara Rao",
         "Mobile_1": "9441232930",
-        "Mobile_2": "9440524386",
+        "Mobile_2": "-",
         "Landline": "-",
         "Email": "sekhinamsivanageswararao@gmail.com",
         "Email_2": ""
@@ -2402,14 +2298,14 @@
         "City": "New Delhi",
         "Name": "Delhi NCR Simplified Kundalini Yoga Trust",
         "CenterNumber": "A.NO.509",
-        "Address": "Room No.103, First Floor, Grith Kalyan Kendra, Samraj Sadan, Sector - 4, R.K.Puram, New Delhi 110 022.",
+        "Address": "Room No.103, First Floor, Grih Kalyan Kendra, Samraj Sadan, Sector - 4, R.K.Puram, New Delhi 110 022.",
         "Zone": "Delhi",
-        "ContactPersonName": "A/N.M.Parameswaran/A/N.R.Guhan",
+        "ContactPersonName": "A/N.M.Parameswaran/A/N. Stephenraj. I",
         "Mobile_1": "9871888230",
-        "Mobile_2": "99688 95572",
-        "Landline": "-",
-        "Email": "skyyoga.delhi@gmail.com/parameswaranster@gmail.com",
-        "Email_2": ""
+        "Mobile_2": "8076321508",
+        "Landline": "8470093970",
+        "Email": "skyyoga.delhi@gmail.com",
+        "Email_2": "delhi.wcsc@vethathiri.ac.in"
       },
       "geometry": {
         "type": "Point",
@@ -2768,10 +2664,10 @@
         "CenterNumber": "A.NO.23",
         "Address": "No.1/31, Murthi Vinayagarkoil Street, Neduvayal, Elathur Via 627 803, Shencottah Taluk, Nellai District.",
         "Zone": "Thirunelveli",
-        "ContactPersonName": "A/N.N.Thiruvenkadam",
-        "Mobile_1": "8903487346",
-        "Mobile_2": "9442235526",
-        "Landline": "-",
+        "ContactPersonName": "A/N.N.Murugan",
+        "Mobile_1": "9442235526",
+        "Mobile_2": "9361118006",
+        "Landline": "9443306329",
         "Email": "ntvnathan@yahoo.com",
         "Email_2": "muruganmska@gmail.com"
       },
@@ -2820,9 +2716,9 @@
         "CenterNumber": "A.NO.25",
         "Address": "No.103, G.S.T.Road, Guduvanchery - 603202.",
         "Zone": "Kancheepuram",
-        "ContactPersonName": "A/N.R.Piramukutti",
-        "Mobile_1": "9444190005",
-        "Mobile_2": "-",
+        "ContactPersonName": "A/N.Vinayagam",
+        "Mobile_1": "6380289198",
+        "Mobile_2": "7358289053",
         "Landline": "27465958, 27461892",
         "Email": "piramukutty.gdvmvkm@gmail.com",
         "Email_2": ""
@@ -2847,7 +2743,7 @@
         "Address": "Arivu Thirukoil, Ezhil Nagar East, 43/4, Thiruvudaiyan Salai 2nd Street, Sankarankoil 627 756.",
         "Zone": "Thirunelveli",
         "ContactPersonName": "A/N.R.Muthukirhsnan",
-        "Mobile_1": "9443544110",
+        "Mobile_1": "9894700405",
         "Mobile_2": "9442064055",
         "Landline": "9486915496",
         "Email": "ramsonsnkl@gmail.com",
@@ -2872,8 +2768,8 @@
         "CenterNumber": "A.NO.28",
         "Address": "No.12, South Mada Street, Mylapore, Chennai - 600004.",
         "Zone": "Chennai",
-        "ContactPersonName": "A/N. M.P. Ponnuswamy",
-        "Mobile_1": "8939543914",
+        "ContactPersonName": "A/N. Gopalakrishnan",
+        "Mobile_1": "9840567055",
         "Mobile_2": "9962542859",
         "Landline": "9345629440",
         "Email": "vethathrimylai@gmail.com",
@@ -2952,7 +2848,7 @@
         "Zone": "Chennai",
         "ContactPersonName": "A/N.S.Arumugam,",
         "Mobile_1": "7550289400",
-        "Mobile_2": "-",
+        "Mobile_2": "",
         "Landline": "044-23664094",
         "Email": "ramakrish_mir@yahoo.in",
         "Email_2": ""
@@ -2977,8 +2873,8 @@
         "Address": "129/54, Rangarajapuram Main Road, Kodambakkam, Chennai 600 024.",
         "Zone": "Chennai",
         "ContactPersonName": "A/N.S.Nagarajan",
-        "Mobile_1": "9445005362",
-        "Mobile_2": "9443244320",
+        "Mobile_1": "9499012840",
+        "Mobile_2": "9840625001",
         "Landline": "9382615060",
         "Email": "jayaraman1948@yahoo.com",
         "Email_2": ""
@@ -3158,9 +3054,9 @@
         "CenterNumber": "A.NO.46",
         "Address": "Kandasamy & Co., Campus, No.266, Mettupalayam Road, Coimbatore - 641 043.",
         "Zone": "Coimbatore",
-        "ContactPersonName": "A/N. Senthamarai Jayakumar",
-        "Mobile_1": "8778870726",
-        "Mobile_2": "9443756252",
+        "ContactPersonName": "V.Shanthamani",
+        "Mobile_1": "86681 86181",
+        "Mobile_2": "98949 39993",
         "Landline": "9442526880, 9488875970",
         "Email": "northkovaiwisetrust@gmail.com",
         "Email_2": "wisetrustnorthkovai@gmail.com"
@@ -3990,9 +3886,9 @@
         "CenterNumber": "A.NO.102",
         "Address": "175, Devipatinam Road, Kanikarai, Vellipattinam Post, Ramanathapuram - 623504.",
         "Zone": "Madurai",
-        "ContactPersonName": "A/N.R.Murugesan",
-        "Mobile_1": "9443465991",
-        "Mobile_2": "9489275105",
+        "ContactPersonName": "A/N.R.Subash",
+        "Mobile_1": "9715540229",
+        "Mobile_2": "9600867287",
         "Landline": "",
         "Email": "rmdwater@gmail.com",
         "Email_2": "abisara80@gmail.com"
@@ -4068,8 +3964,8 @@
         "CenterNumber": "A.NO.106",
         "Address": "No.30, Vethathiri Veedhi, Amman Nagar, Near V.J.Kalyana Mahal, Thally Road, Hosur 635109. Krishnagiri Dt.",
         "Zone": "Hosur",
-        "ContactPersonName": "A/N.P.Rangasamy",
-        "Mobile_1": "9342875181",
+        "ContactPersonName": "A/N.S.Kalarani",
+        "Mobile_1": "9994897557",
         "Mobile_2": "9443316923",
         "Landline": "9487487362",
         "Email": "sa.a106@vethathiri.ac.in",
@@ -4124,7 +4020,7 @@
         "Mobile_1": "9677492413",
         "Mobile_2": "9994158404",
         "Landline": "9443522821",
-        "Email": "avkmvkm@gmail.com",
+        "Email": "m.maran24@gmail.com",
         "Email_2": "sharpsudharsan@gmail.com"
       },
       "geometry": {
@@ -4484,8 +4380,8 @@
         "CenterNumber": "A.NO.133",
         "Address": "Dr.Sankunni Memorial Hospital Complex, East Gate, 17/36, Palakkad Road, Pollachi - 642 001.",
         "Zone": "Coimbatore",
-        "ContactPersonName": "A/N.K.Kumaraguru",
-        "Mobile_1": "9790277755",
+        "ContactPersonName": "A/N.Amutha",
+        "Mobile_1": "8072449021",
         "Mobile_2": "9942909090",
         "Landline": "04259 - 224619, 9443510941",
         "Email": "vethathirimaharisi123@gmail.com",
@@ -4718,9 +4614,9 @@
         "CenterNumber": "A.NO.150",
         "Address": "No.14/2 - C, Nainiammal Street, Krishnapuram, Ambathur, Chennai - 600053.",
         "Zone": "Thiruvallur",
-        "ContactPersonName": "A/N.E.SEKAR",
-        "Mobile_1": "9884739875",
-        "Mobile_2": "9444797098",
+        "ContactPersonName": "A/ n Parthiban",
+        "Mobile_1": "9840604601",
+        "Mobile_2": "9003042969",
         "Landline": "044-26585413",
         "Email": "ambatturmvkm53@gmail.com",
         "Email_2": "sekar.ekambaram@gmail.com"
@@ -5086,7 +4982,7 @@
         "Mobile_1": "9790847120",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "-",
+        "Email": "umaranisaidaitrust04@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -5260,15 +5156,15 @@
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Thanjavur",
-        "Name": "Thanjai MVKM Trust",
+        "Name": "Thanjai Arivuthirukovi",
         "CenterNumber": "A.NO.196",
-        "Address": "Vethathiri Kudil, 14,Srinivasa Nagar, Co-Operative Colony Salai, Thanjavur - 613007.",
+        "Address": "First Street, Rajappa Nagar,Thanjavur 613007",
         "Zone": "Kumbakonam",
-        "ContactPersonName": "A/N.K.Saravanan",
-        "Mobile_1": "9443586068",
-        "Mobile_2": "9843385133",
+        "ContactPersonName": "A/N. S.Poornachandran-",
+        "Mobile_1": "9443717299",
+        "Mobile_2": "9443698852",
         "Landline": "-",
-        "Email": "thanjaimvkmtrust@gmail.com",
+        "Email": "thanjaimvkmtrust196@gmail.com-",
         "Email_2": ""
       },
       "geometry": {
@@ -5397,7 +5293,7 @@
         "ContactPersonName": "A/N.A.Nehru, suresh",
         "Mobile_1": "9894466219",
         "Mobile_2": "9894466219",
-        "Landline": "9942502224",
+        "Landline": ",9942502224",
         "Email": "aranthangi.skyyoga@vethathiri.ac.in",
         "Email_2": ""
       },
@@ -6586,6 +6482,32 @@
         "Country": "India",
         "State": "Tamilnadu",
         "City": "Chennai",
+        "Name": "Chrompet Umayalpuram MVKM Trust",
+        "CenterNumber": "A.NO.270",
+        "Address": "Plot No.9, Athirai Street, Umayalpuram, Chromepet, Chennai - 600 044.",
+        "Zone": "Kancheepuram",
+        "ContactPersonName": "A/N.Rama.Sundaresan",
+        "Mobile_1": "9840205758",
+        "Mobile_2": "9940486809",
+        "Landline": "044-22410634, 9940486809, 9840205758, 9444570398",
+        "Email": "vw040umayalpuram@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1909588,
+          12.9822107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
         "Name": "Saidapet Jones Road MVKM Trust",
         "CenterNumber": "A.NO.271",
         "Address": "Brindhavan Illam, No.45/ 17 & 18. Jones Road, Saidapet, Chennai - 15.",
@@ -6672,8 +6594,8 @@
         "Mobile_1": "9444589137",
         "Mobile_2": "9789920656",
         "Landline": "044-22522001",
-        "Email": "skyyogaporur@gmail.com",
-        "Email_2": ""
+        "Email": "courses.skyyogaporur@gmail.com",
+        "Email_2": "skyyogaporur@gmail.com"
       },
       "geometry": {
         "type": "Point",
@@ -6853,7 +6775,7 @@
         "ContactPersonName": "A/N.B.Shanmuga Velayudam",
         "Mobile_1": "9840062350",
         "Mobile_2": "9940217518",
-        "Landline": "044-42300194",
+        "Landline": "044:42300194",
         "Email": "attvmvkmtrust@hotmail.com",
         "Email_2": ""
       },
@@ -8772,13 +8694,13 @@
         "City": "Chennai",
         "Name": "Besant Nagar MVKM Trust",
         "CenterNumber": "A.NO.382",
-        "Address": "Jenith Akash, 80/5, T.M.Maistry Street, Thiruvanmiyur, Chennai 600 041.",
+        "Address": "97/3, T.M.Maistry Street, Thiruvanmiyur, Chennai 600 041.",
         "Zone": "Chennai",
         "ContactPersonName": "A/N.V.Pandurangan",
         "Mobile_1": "9840137876",
         "Mobile_2": "9940678769",
         "Landline": "044-65498955",
-        "Email": "zenithbuilder@gmail.com",
+        "Email": "mvkmbesantnagar@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -10878,7 +10800,7 @@
         "City": "Chennai",
         "Name": "Chennai Bakthavachalam Colony MVKM Trust",
         "CenterNumber": "A.NO.514",
-        "Address": "No.1, 23rd Street, BAKTHAVACHALAM COLONY, (Nearby Nethaji statue and Foot Ball Play ground), Vyasarpadi, Chennai – 600039",
+        "Address": "No.1, 23rd Street, BAKTHAVACHALAM COLONY, (Nearby Nethaji statue and Foot Ball Play ground), Vyasarpadi, Chennai - 600039",
         "Zone": "Chennai",
         "ContactPersonName": "A/N.B. Jothi",
         "Mobile_1": "9840894645",
@@ -11030,24 +10952,24 @@
       "properties": {
         "Continent": "Australasia/Oceania",
         "Country": "Australia",
-        "State": "New South Wales",
-        "City": "Homebush",
-        "Name": "Vethathiri Yoga Centre, New South Wales",
+        "State": "",
+        "City": "",
+        "Name": "Sydney SKY Meditation Centre Inc - NSW Australia",
         "CenterNumber": "unknown",
-        "Address": "45, The Crescent, Homebush, Sydney, New South Wales - 2140, Australia",
+        "Address": "3/60 Metella Road, Toongabbie, NSW 2146 Australia",
         "Zone": "Australia",
-        "ContactPersonName": "A/N. Dr. Barathy Balasubramanium - President",
-        "Mobile_1": "0061-404 904 702",
-        "Mobile_2": "0061-290 298 979",
-        "Landline": "0061-412 992 536, +91-9003100666 (India)",
-        "Email": "sydneyskyyoga@gmail.com",
-        "Email_2": "sydneyvyc@gmail.com,"
+        "ContactPersonName": "A/N.Sampathkumar Rengarajan",
+        "Mobile_1": "+61 473 650 019",
+        "Mobile_2": "+61 473 650 019",
+        "Landline": "+61 476 792 239",
+        "Email": "mail.skyaustralia@gmail.com",
+        "Email_2": "vimalasampath@hotmail.com"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.081191,
-          -33.86544888
+          150.9387541,
+          -33.76913539
         ]
       }
     },
@@ -11056,24 +10978,24 @@
       "properties": {
         "Continent": "Australasia/Oceania",
         "Country": "Australia",
-        "State": "Perth",
-        "City": "Huntingdale",
-        "Name": "Perth SKY Meditation Centre, Western Australia",
+        "State": "",
+        "City": "",
+        "Name": "Perth SKY Meditation Centre, Western Australia Inc",
         "CenterNumber": "unknown",
-        "Address": "11 Roscommon Vista,Huntingdale, WA 6110",
+        "Address": "11 Roscommon Vista, Huntingdale, Western Australia 6110",
         "Zone": "Australia",
-        "ContactPersonName": "A/N. Prabhakaran, A/N. Velu",
-        "Mobile_1": "0061-449 151 968",
-        "Mobile_2": "0061-480 183 296",
-        "Landline": "-",
+        "ContactPersonName": "A/N.Prabakaran Chinnayhambi",
+        "Mobile_1": "+61 467 805 301",
+        "Mobile_2": "+61 450 535 420",
+        "Landline": "+61 435 512 978",
         "Email": "perth.sky.yoga@gmail.com",
-        "Email_2": "veluswamy.r68@gmail.com"
+        "Email_2": "veskarancp@gmail.com"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.9703455,
-          -32.0844753
+          115.9708147,
+          -32.08069181
         ]
       }
     },
@@ -11082,24 +11004,24 @@
       "properties": {
         "Continent": "Australasia/Oceania",
         "Country": "Australia",
-        "State": "Victoria",
-        "City": "Magill",
-        "Name": "Adelaide SKY Yoga",
-        "CenterNumber": "Victoria SKY Sub Centre",
-        "Address": "33 Eton Avenue, Magill, SA-5072",
+        "State": "",
+        "City": "",
+        "Name": "Victoria SKY Meditation Society",
+        "CenterNumber": "unknown",
+        "Address": "Meditation Hall, Cultural and Heritage Centre (Siva-Vishnu Temple) 52 Boundary Road, Carrum Down, Vic 3201",
         "Zone": "Australia",
-        "ContactPersonName": "A/N Aravind Rangarajan",
-        "Mobile_1": "0061-415 863 819",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "puruchith@hotmail.com",
-        "Email_2": ""
+        "ContactPersonName": "A/N.N. Purushothaman",
+        "Mobile_1": "+61 434 264 253",
+        "Mobile_2": "+61430 238 405",
+        "Landline": "61430356378",
+        "Email": "victoria.sky@hotmail.com",
+        "Email_2": "puruchith@hotmail.com"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          138.6715822,
-          -34.89742309
+          145.1774495,
+          -38.08308245
         ]
       }
     },
@@ -11764,7 +11686,7 @@
         "CenterNumber": "unknown",
         "Address": "No.4, 1st Floor, Jalan Hang Tuah 4/1, Taman Muhibbah, 86000, Kluang, Johor, Malaysia",
         "Zone": "Malaysia",
-        "ContactPersonName": " Prof.(T) E. Sreekantan,Prof. Prasanna Shanmuganathan, A/N. V. Palanisamy",
+        "ContactPersonName": "-Prof.(T) E. Sreekantan,Prof. Prasanna Shanmuganathan, A/N. V. Palanisamy",
         "Mobile_1": "006-012-3643620/0060 - 197 566 636",
         "Mobile_2": "006-010-12172599/ 0060 - 126 130 413",
         "Landline": "",
@@ -12155,7 +12077,7 @@
         "Address": "Puchong, Selangor, Malaysia",
         "Zone": "Malaysia",
         "ContactPersonName": "A/N. Karmegam, Master In-charge,",
-        "Mobile_1": "0060-012-623-91578 ",
+        "Mobile_1": "0060-012-623-91578-",
         "Mobile_2": "",
         "Landline": "-",
         "Email": "kmegam@gmail.com",
@@ -13110,7 +13032,7 @@
       "properties": {
         "Continent": "Europe",
         "Country": "Switzerland",
-        "State": "Zürich",
+        "State": "Z-rich",
         "City": "Bahnhaldenstrasse",
         "Name": "SKY Zurich",
         "CenterNumber": "unknown",
@@ -13140,13 +13062,13 @@
         "City": "Bangkok",
         "Name": "Bangkok SKY Meditation Centre",
         "CenterNumber": "unknown",
-        "Address": "Kajonkit Mansion, 1729, Moo-4, Soi Prajaksin-3, Theparak Road, Thambon Theprak, Changwat, Samutprakarn, Bangkok",
+        "Address": "9B, Siam Mansion, 87 Sukumvit Soi 12, Bangkok 10110, Thailand.",
         "Zone": "Thailand",
-        "ContactPersonName": "S. Selvaraj",
-        "Mobile_1": "0066-82-3646760",
-        "Mobile_2": "-",
-        "Landline": "-",
-        "Email": "skype: selvarajsari",
+        "ContactPersonName": "SKY Prof. VR. Mathivanan",
+        "Mobile_1": "0066-38-533068",
+        "Mobile_2": "0066-2-2517777",
+        "Landline": "0066-87-0790595",
+        "Email": "mathivanansky@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -13246,8 +13168,8 @@
         "CenterNumber": "unknown",
         "Address": "Berkeley CA",
         "Zone": "USA",
-        "ContactPersonName": "Asst. Prof. Radjendirane Cothandaramane, Mrs. Sharon Walsh",
-        "Mobile_1": "001-520-884-4373",
+        "ContactPersonName": "Rajendran Sarangapani",
+        "Mobile_1": "001-510-456-8953",
         "Mobile_2": "001-510-456-8953",
         "Landline": "001-916-276-7791",
         "Email": "mksreeniv@gmail.com",
@@ -13350,11 +13272,11 @@
         "CenterNumber": "WCSC/APP(S)/USA/017",
         "Address": "Shirdi Sai Temple, 1221 California Cir Milpitas, CA 95035, USA",
         "Zone": "USA",
-        "ContactPersonName": "A/N. Nagarajan Madhavan Asst. Prof. Shanthi Jayasekar",
-        "Mobile_1": "001-408-585-8750",
+        "ContactPersonName": "Karthik Karuppasamy",
+        "Mobile_1": "001-412-961-1407",
         "Mobile_2": "001-408-203-5248",
         "Landline": "-",
-        "Email": "cmnagarajan@yahoo.com",
+        "Email": "karthik.k.samy@gmail.com",
         "Email_2": "jayasekar@yahoo.com"
       },
       "geometry": {
@@ -13454,11 +13376,11 @@
         "CenterNumber": "WCSC/APP(S)/USA/016",
         "Address": "5979 S Helena Ct, Centennial, CO 80016.",
         "Zone": "USA",
-        "ContactPersonName": "A/N. Sriram Ganesh",
-        "Mobile_1": "001-303-627-9418",
+        "ContactPersonName": "A/N. Aishwarya",
+        "Mobile_1": "806-317-6774",
         "Mobile_2": "001-720-608-2429",
         "Landline": "-",
-        "Email": "sganes@yahoo.com",
+        "Email": "aishwaryathangavelu@gmail.com",
         "Email_2": "usa.denver.sky@gmail.com"
       },
       "geometry": {
@@ -13507,10 +13429,10 @@
         "Address": "15671,SW 53 Street, Miramar, FL 33027",
         "Zone": "USA",
         "ContactPersonName": "APT. Raviumar",
-        "Mobile_1": "001 - 224-374-8314",
+        "Mobile_1": "001-919-397-4210",
         "Mobile_2": "001-919-397-4210",
         "Landline": "-",
-        "Email": "rravikumar27@yahoo.com",
+        "Email": "senthilmiami@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -13532,8 +13454,8 @@
         "CenterNumber": "WCSC/APP/USA/036",
         "Address": "2475 Old Atlanta Road, Cumming GA 30041",
         "Zone": "USA",
-        "ContactPersonName": "A/N. Chandrasekhar Kuppuswamy",
-        "Mobile_1": "001-404-451-3972",
+        "ContactPersonName": "Kalaivani",
+        "Mobile_1": "404-451-3972",
         "Mobile_2": "001-404-919-4117",
         "Landline": "-",
         "Email": "chandkuppu@gmail.com",
@@ -13662,8 +13584,8 @@
         "CenterNumber": "WCSC/APP/USA/038",
         "Address": "1408 Buckhurst Ct, Ballwin, MO 63021.",
         "Zone": "USA",
-        "ContactPersonName": "A/N. Boomi Senthil Nathan Lakshmanan",
-        "Mobile_1": "001-650-793-5037",
+        "ContactPersonName": "Meena Puvi",
+        "Mobile_1": "650-396-9794",
         "Mobile_2": "-",
         "Landline": "-",
         "Email": "stlskysociety@gmail.com",
@@ -13740,11 +13662,11 @@
         "CenterNumber": "WCSC/APP(S)/USA/051",
         "Address": "193, Evergreen Road, Edison, NJ 08837.",
         "Zone": "USA",
-        "ContactPersonName": "A/N. Muthuraja M Pillai",
+        "ContactPersonName": "A/N. Dr. Priyatarssini",
         "Mobile_1": "001-551-200-7894",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "muthuajar@yahoo.com",
+        "Email": "ranjinidevi@gmail.com",
         "Email_2": ""
       },
       "geometry": {
@@ -13874,7 +13796,7 @@
         "Mobile_1": "001-718-776-3287",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "raginikr@aol.com",
+        "Email": "damodaran1951@gmail.com",
         "Email_2": "damodaran1951@gmail.com"
       },
       "geometry": {
@@ -13998,7 +13920,7 @@
         "City": "Fairfax",
         "Name": "Fairfax SKY Center",
         "CenterNumber": "WCSC/APP/USA/040",
-        "Address": "25452 Schooley Mill Chantilly, Virginia 20152",
+        "Address": "12501 Braddock road , fairfax, 22030",
         "Zone": "USA",
         "ContactPersonName": "A/N. Siva Kumar Srinivasan",
         "Mobile_1": "001-703-364-8151",
@@ -14056,7 +13978,7 @@
         "Mobile_1": "001-425-283-3066",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "seattleskysociety@gmail.com",
+        "Email": "vmeera_72@yahoo.com",
         "Email_2": ""
       },
       "geometry": {
@@ -14082,13 +14004,326 @@
         "Mobile_1": "001-425-445-4491",
         "Mobile_2": "-",
         "Landline": "-",
-        "Email": "viknarajesh@yahoo.com"
+        "Email": "viknarajesh@yahoo.com",
+        "Email_2": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.0367283,
           47.61483498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Annai Indira Nagar Subcenter",
+        "CenterNumber": "unknown",
+        "Address": "No:4, Plot no:13, 12th Street,Dancy nagar,Annai Indira nagar,Velacherry,Cheenai-600042.",
+        "Zone": "Chennai",
+        "ContactPersonName": "A/N Dhanasekari kattaiyan",
+        "Mobile_1": "9787489086",
+        "Mobile_2": "9444376065",
+        "Landline": "-",
+        "Email": "sgsambandam@ahoo.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.22864146,
+          12.97662585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Sasi Nagar Subcenter",
+        "CenterNumber": "unknown",
+        "Address": "no:4/1, Balaji Colony Main road,Sasi nagar,100 Ft byepass road,near erikarai,Velacherry,Chennai,600042.",
+        "Zone": "Chennai",
+        "ContactPersonName": "A/n Parivallal",
+        "Mobile_1": "9940489362",
+        "Mobile_2": "9791006674 / 9080192425",
+        "Landline": "044-22593979",
+        "Email": "sgsambandam@ahoo.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.21791181,
+          12.98650449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Coimbatore",
+        "Name": "Kovai Central MVKM Trust",
+        "CenterNumber": "A.No.519",
+        "Address": "No.469-C, Avinasi Salai,Kalki Nagar, ESSO Bunk,Peelamedu, Kovai 641 004.",
+        "Zone": "Coimbatore",
+        "ContactPersonName": "A/N.Suresh ",
+        "Mobile_1": "9994249726",
+        "Mobile_2": "9842294197",
+        "Landline": "9994249726",
+        "Email": "kcmvkmt@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9952479,
+          11.0256678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Maharashtra",
+        "City": "Pune",
+        "Name": "Pune Sub Centre",
+        "CenterNumber": "unknown",
+        "Address": "No:503,Coral building,Suyog Pearl Co opp soceity,Hadapsar MIDC,Pune, Maharashtra-411013",
+        "Zone": "Maharashtra",
+        "ContactPersonName": "A/N Sivakumar",
+        "Mobile_1": "9833954131",
+        "Mobile_2": "9588664043",
+        "Landline": "",
+        "Email": "skyonlinepune@gmail.com",
+        "Email_2": "vskr2002@gmail.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91444068,
+          18.51701765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "Saudi Arabia",
+        "State": "Saudi Arabia",
+        "City": "Riyadh",
+        "Name": "SKY Yoga Centre",
+        "CenterNumber": "unknown",
+        "Address": "-",
+        "Zone": "Saudi Arabia",
+        "ContactPersonName": "A/NN. Sankar Natarasan",
+        "Mobile_1": "00966 50 018 6089",
+        "Mobile_2": "+966 56 651 8977",
+        "Landline": "skyyogariyadh@gmail.com",
+        "Email": "npremanandkumar@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.70629966,
+          25.01598602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Trichy",
+        "Name": "Mohanur MVKM Trust,",
+        "CenterNumber": "unknown",
+        "Address": "3/81,Mudaliyar Street,Unniyur Post, Thutiyam Taluk, Trichi Dist 621 207.",
+        "Zone": "Salem",
+        "ContactPersonName": "A/N.V.Manivasagam",
+        "Mobile_1": "9789174567",
+        "Mobile_2": "9994827506",
+        "Landline": "9442147068",
+        "Email": "",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.17721968,
+          11.0025238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Tirupur",
+        "Name": "Mangalam Agraharapputoor MVKM Trust,",
+        "CenterNumber": "unknown",
+        "Address": "Agraharapputoor,Somanur Road,Mangalam, Tirupur 641663",
+        "Zone": "Tiruppur",
+        "ContactPersonName": "A/N.C.Easwaran",
+        "Mobile_1": "7373911333",
+        "Mobile_2": "-",
+        "Landline": "-",
+        "Email": "",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.27312261,
+          11.10248831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Iyyappanthangal Prestige Bella Vista MVKM Trust,",
+        "CenterNumber": "unknown",
+        "Address": "T16B, Door No.16147, 12th Floor,Ayyapanthangal, Chennai 600 056.",
+        "Zone": "Kancheepuram",
+        "ContactPersonName": "A/N.S.Parimala",
+        "Mobile_1": "9962090060",
+        "Mobile_2": "9500113507",
+        "Landline": "9787184273",
+        "Email": "",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.13165874,
+          13.03977158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Chennai Sanjai Nagar MVKM Trust,",
+        "CenterNumber": "unknown",
+        "Address": "No.1, Rajaji Road, Sanjay Nagar,Ponniamman Medu,Chennai - 600 110",
+        "Zone": "Chennai",
+        "ContactPersonName": "A/N.T.Manivannan",
+        "Mobile_1": "9840450502",
+        "Mobile_2": "",
+        "Landline": "",
+        "Email": "Email : poomani2003@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2255186,
+          13.1352708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Sithalapakkam T.N.H.B. MVKM Trust,",
+        "CenterNumber": "unknown",
+        "Address": "No.1560, \"ANBAGAM\",T.N.H.B. Sithalapakkam 600 126",
+        "Zone": "Kancheepuram",
+        "ContactPersonName": "A/N.D,Azagarasan",
+        "Mobile_1": "9443088391",
+        "Mobile_2": "9487237368",
+        "Landline": "",
+        "Email": "",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.30183555,
+          13.17031578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Tamilnadu",
+        "City": "Chennai",
+        "Name": "Govindaperi MVKM Trust,",
+        "CenterNumber": "unknown",
+        "Address": "1/120, Pillayar Koil Street,Govindaperi 627 424.Thenkasi Dist",
+        "Zone": "Thirunelveli",
+        "ContactPersonName": "A/N.M.Thalavai",
+        "Mobile_1": "7548837769",
+        "Mobile_2": "8489874676",
+        "Landline": "",
+        "Email": "",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.47311617,
+          9.094608801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Continent": "Asia",
+        "Country": "India",
+        "State": "Telangana",
+        "City": "Hyderabad",
+        "Name": "Hyderabad Y-Junction SKY Trust,",
+        "CenterNumber": "unknown",
+        "Address": "The Chennai Silks Building,D.No.11-6-72/B, Y Junction, Kukatpally, Hyderabad 500 018.",
+        "Zone": "Telangana",
+        "ContactPersonName": "A/N.S.Sivanageswara Rao",
+        "Mobile_1": "9441232930",
+        "Mobile_2": "9894916260",
+        "Landline": "",
+        "Email": "sekhinamsivanageswararao@gmail.com",
+        "Email_2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.42284599,
+          17.47576294
         ]
       }
     }
